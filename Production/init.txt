@@ -1,5 +1,7 @@
 You are gonna take each episode from 2D-Animation/Pre-Production/2_Script_Builder/Episodes,
 and for each episode you are gonna create, based on 2D-Animation/Production/Readme.md,
-a json robust file Video prompt for Sora 2 for each episode..
+a json robust file Video prompt for Sora 2 for each episode.
+
+You are gonna store each episode prompts inside /Production/Video_prompts/
 
 Once finished this is the end task. The Goal.

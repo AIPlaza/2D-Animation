@@ -2,6 +2,10 @@
 ## Production-Ready Scripts for Sora 2 AI Animation
 
 ---
+/// This file needs to be adapted so takes information for context from:
+/// [1](../Pre-Production/2_Script_Builder/Episodes)
+/// [2](../Pre-Production/3_Character_Design/characters)
+
 
 ## SYSTEM ROLE
 
