@@ -1,0 +1,40 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Character Definition",
+  "type": "object",
+  "properties": {
+    "character_core": {
+      "type": "object",
+      "properties": {
+        "character_id": { "type": "string" },
+        "name": { "type": "string" },
+        "age": { "type": "number" },
+        "role_in_story": { "type": "string" },
+        "genre_style": { "type": "string" }
+      },
+      "required": ["character_id","name","role_in_story"]
+    },
+    "personality_profile": {
+      "type": "object",
+      "properties": {
+        "key_traits": { "type": "array", "items": { "type": "string" } }
+      }
+    },
+    "visual_identity": {
+      "type": "object"
+    },
+    "expressions": {
+      "type": "object",
+      "properties": {
+        "list": { "type": "array", "items": { "type": "string" } }
+      }
+    },
+    "poses": {
+      "type": "object"
+    },
+    "prompt_templates": {
+      "type": "object"
+    }
+  },
+  "required": ["character_core","visual_identity"]
+}

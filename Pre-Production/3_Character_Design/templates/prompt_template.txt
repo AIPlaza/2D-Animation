@@ -1,0 +1,20 @@
+Produce a character design in [VISUAL_STYLE] for a [GENRE] project.
+
+Character: [NAME]
+Role: [ROLE]
+
+Visual Summary:
+- Age: [AGE]
+- Ethnicity: [ETHNICITY]
+- Body language signature: [POSES_LIST]
+- Expression signature: [EXPRESSIONS_LIST]
+- Key identifiers: [CONSISTENCY_TOKENS]
+
+Generate output files:
+- Full JSON character definition
+- Character sheet prompt
+- Expression sheet prompt
+- Pose sheet prompt
+- Sticker pack prompt
+
+Use consistent style, warm lighting, and gameplay/production compatibility.

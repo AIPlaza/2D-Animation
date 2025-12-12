@@ -7,6 +7,7 @@ you will generate the ten (10) Episodes Scripts into /2_Script_Builder/Episodes
 Once Episodes folder is completed and well structure with the ten episodes, you
 will proceed to read  2D-Animation/Pre-Production/3_Character_Design/Readme.md
 and with that prompt you will generate the character json sheet given the example
-in 2D-Animation/Pre-Production/3_Character_Design/x_character.json
+in 2D-Animation/Pre-Production/3_Character_Design/x_character.json for main Characters.
 
-read 2D-Animation/Production/init.txt
+When adding all character sheets you will proceed to read
+read 2D-Animation/Production/init.txt and continue with workflow.

@@ -1,0 +1,6 @@
+You are gonna start reading 2D-Animation/Pre-Production/1_Chapter_Builder/init.txt and you   the instructions and workflow to generate
+the needed chapter once "New_Chapter.md" is updated you will proceed to read
+2D-Animation/Pre-Production/2_Script_Builder/init.txt and follow the instructions
+
+Once you finish creating the scripts for ten episodes you will move to read
+2D-Animation/Production/init.txt
