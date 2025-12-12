@@ -1,0 +1,630 @@
+{
+  "project_metadata": {
+    "project_title": "The Algorithm of Hope",
+    "episode_number": 1,
+    "episode_title": "Ones and Zeros",
+    "episode_duration": "06:45",
+    "musical_style": "Cinematic electronic-organic hybrid with Studio Ghibli warmth",
+    "target_audience": "16-25 year olds interested in tech/coding",
+    "educational_context": "Introduction to algorithms, automation, digital economy basics",
+    "version": "1.0",
+    "date_generated": "2025-12-12"
+  },
+
+  "episode_narrative_summary": {
+    "arc": "Introduce Luna's isolated digital world → Show her automated systems working → Hint at human cost of isolation → Spark of possibility",
+    "teaching_goal": "Demystify algorithms and automation; introduce concept that code affects real people",
+    "emotional_journey": "Impressive competence → Subtle loneliness → Moment of connection → Hopeful uncertainty",
+    "key_moments": [
+      "00:00-00:45: Luna wakes, checks systems (establish routine)",
+      "00:45-02:30: Montage of automated systems working (teach concept)",
+      "02:30-04:00: Family interaction showing isolation (emotional core)",
+      "04:00-05:30: First network user message (connection spark)",
+      "05:30-06:45: Luna contemplates implications (cliffhanger)"
+    ]
+  },
+
+  "master_track_specification": {
+    "duration": "06:45",
+    "overall_structure": "Intro (mechanical) → Development (layering humanity) → Contemplation (vulnerability) → Outro (hopeful uncertainty)",
+    "key": "C Major (hopeful) with brief excursions to A Minor (loneliness)",
+    "tempo": "Variable: 80 BPM intro, builds to 120 BPM during montage, slows to 90 BPM for contemplation",
+    "instrumentation_philosophy": "Hybrid analog-digital: Piano represents Luna's humanity, synth pads represent digital world, subtle strings represent suppressed emotions, light electronic glitches represent code/algorithms",
+    
+    "instrumentation": [
+      "Solo piano (primary melodic voice - Luna's inner self)",
+      "Ambient synth pad (digital world atmosphere)",
+      "Soft strings (cello, violin - emotional undertone)",
+      "Light electronic percussion (subtle, not aggressive)",
+      "Digital glitch elements (code sounds, very subtle)",
+      "Warm bass (grounding, not overwhelming)"
+    ],
+
+    "section_breakdown": [
+      {
+        "timestamp_start": "00:00",
+        "timestamp_end": "00:45",
+        "section_name": "Morning Routine - Mechanical Efficiency",
+        "scenes_covered": ["S01: Wake up", "S02: Check monitors", "S03: Morning coffee"],
+        "energy_level": 3,
+        "emotional_tone": "Competent but detached, routine, slightly cold efficiency",
+        "musical_direction": "Sparse piano notes, electronic pad underneath, minimalist. Represents Luna's isolated morning routine. Music feels 'smart' but not 'warm' yet.",
+        "instrumentation_active": ["Piano (minimal)", "Synth pad (ambient)", "Digital clicks (subtle)"],
+        "tempo": "80 BPM",
+        "dynamics": "Soft (p), building slightly",
+        "key": "C Major",
+        "special_notes": "Piano plays repeating pattern (like algorithm loop), synth pad has slight digital texture. No strings yet - she's disconnected from emotion."
+      },
+      {
+        "timestamp_start": "00:45",
+        "timestamp_end": "02:30",
+        "section_name": "The Algorithm Montage - Systems Working",
+        "scenes_covered": ["S04-S12: Various automated systems making money, helping users"],
+        "energy_level": 7,
+        "emotional_tone": "Impressive, energetic, satisfying (code working), increasing complexity",
+        "musical_direction": "Tempo increases to 120 BPM. Piano becomes more intricate (ascending arpeggios). Synth layers add complexity. Light percussion enters. Represents multiple systems running in harmony. Should feel exciting but also mechanical.",
+        "instrumentation_active": ["Piano (ascending patterns)", "Synth pad (layered)", "Electronic percussion", "Bass (steady)", "Digital glitches (rhythmic)"],
+        "tempo": "120 BPM",
+        "dynamics": "Medium-forte (mf), building",
+        "key": "C Major",
+        "special_notes": "This is 'teaching music' - clear, bright, helping viewer understand how automation works. Each new system adds a musical layer (visual metaphor). Peak at 02:00 when all systems shown working together."
+      },
+      {
+        "timestamp_start": "02:30",
+        "timestamp_end": "04:00",
+        "section_name": "Family Dinner - Isolation Revealed",
+        "scenes_covered": ["S13: Grandmother cooking", "S14: Family dinner", "S15: Luna at laptop during meal"],
+        "energy_level": 4,
+        "emotional_tone": "Warm family atmosphere contrasted with Luna's emotional distance, subtle sadness",
+        "musical_direction": "Tempo slows to 95 BPM. Strings enter for first time (cello, representing family warmth). Piano melody becomes less algorithmic, more human. But there's dissonance - Luna's digital world (synth) clashes gently with family warmth (strings). Key shifts briefly to A Minor during Luna's isolation moment.",
+        "instrumentation_active": ["Piano (melodic, human)", "Strings (cello, violin)", "Synth pad (reduced)", "Light bass"],
+        "tempo": "95 BPM",
+        "dynamics": "Soft to medium (mp)",
+        "key": "C Major shifting to A Minor (02:45-03:15) then back",
+        "special_notes": "Strings represent family connection Luna is missing. When she ignores them for laptop, strings fade slightly, synth pad returns - visual representation of her choice. Not judgmental music, but emotionally clear."
+      },
+      {
+        "timestamp_start": "04:00",
+        "timestamp_end": "05:30",
+        "section_name": "First Human Connection - Spark of Possibility",
+        "scenes_covered": ["S16: Message from user", "S17: Luna reads personal story", "S18: Her reaction"],
+        "energy_level": 5,
+        "emotional_tone": "Surprise, curiosity, vulnerability, slight hope",
+        "musical_direction": "Piano plays softer, more contemplative melody. Strings return warmly (representing human connection in the message). Synth pad remains but becomes warmer, less mechanical. A new melodic motif emerges (will become 'connection theme'). Music asks a question rather than stating - represents Luna's uncertainty.",
+        "instrumentation_active": ["Piano (contemplative)", "Strings (warm, supportive)", "Synth pad (warm texture)", "No percussion"],
+        "tempo": "90 BPM",
+        "dynamics": "Soft (p), intimate",
+        "key": "C Major",
+        "special_notes": "This is the emotional turn. Music should feel like a door opening slightly. The 'connection theme' (simple ascending three notes on strings) appears at 04:45 when Luna reads how her system helped reunite a family. This motif will return in future episodes."
+      },
+      {
+        "timestamp_start": "05:30",
+        "timestamp_end": "06:45",
+        "section_name": "Contemplation - Hopeful Uncertainty",
+        "scenes_covered": ["S19: Luna looks at family photo", "S20: Looks at screen", "S21: Both", "S22: End card"],
+        "energy_level": 4,
+        "emotional_tone": "Thoughtful, vulnerable, hopeful but uncertain, open-ended",
+        "musical_direction": "Piano and strings in balance (digital and human in harmony). Tempo stays at 90 BPM but rhythm becomes less rigid. 'Connection theme' returns, slightly developed. Music doesn't resolve completely - ends on a question (suspended chord) rather than firm conclusion. Represents Luna's uncertainty but also possibility.",
+        "instrumentation_active": ["Piano (equal with strings)", "Strings (cello, violin)", "Synth pad (very subtle)", "Warm bass"],
+        "tempo": "90 BPM",
+        "dynamics": "Soft (p), gentle fade",
+        "key": "C Major, ending on suspended fourth chord (unresolved)",
+        "special_notes": "Final 15 seconds (06:30-06:45) is gentle fade with 'connection theme' lingering. Not triumphant, not sad - contemplative. Sets up emotional continuity for Episode 2. Music should feel like an inhale before a choice."
+      }
+    ],
+
+    "ai_generation_prompt_suno": "Cinematic educational underscoring, 6 minutes 45 seconds. Opening: sparse solo piano with ambient electronic pad, 80 BPM, C Major, mechanical but intelligent. 0:45 mark: tempo builds to 120 BPM, piano arpeggios ascend, electronic layers add, light percussion, represents automation working, energetic and satisfying, teaching-friendly clarity. 2:30 mark: tempo slows to 95 BPM, warm cello and violin enter, emotional depth increases, brief shift to A Minor (2:45-3:15) showing isolation, then return to C Major. 4:00 mark: tempo 90 BPM, contemplative piano melody, strings supportive, synth becomes warmer, intimate and vulnerable, new three-note ascending motif on strings (connection theme). 5:30 to end: piano and strings balanced, rhythm less rigid, connection theme returns developed, ends on suspended fourth chord (unresolved, hopeful uncertainty), gentle fade. Overall: Studio Ghibli warmth meets intelligent electronic, hybrid analog-digital, suitable for young adult tech education, no vocals, emotional but not manipulative, seamless transitions between sections.",
+
+    "ai_generation_prompt_udio": "6:45 cinematic score, educational content background music. Hybrid electronic-acoustic: solo piano (primary), ambient synth pads (secondary), cello and violin (emotional layer), subtle electronic glitches. Structure: Intro (sparse, mechanical 80 BPM) → Energetic montage (120 BPM, layered, ascending patterns) → Emotional turn (95 BPM, strings enter, warmth vs isolation) → Contemplative close (90 BPM, balanced, unresolved ending). C Major with A Minor excursion. Warm Studio Ghibli aesthetic, intelligent but not cold, hopeful but uncertain. Teaching-appropriate clarity, no lyrics.",
+
+    "alternative_search_keywords": [
+      "cinematic piano electronic hybrid",
+      "educational technology background music",
+      "hopeful contemplative underscore",
+      "Studio Ghibli inspired instrumental",
+      "warm intelligent corporate",
+      "gentle electronic with strings",
+      "coming of age indie soundtrack",
+      "algorithm montage music"
+    ],
+
+    "reference_tracks": [
+      {
+        "title": "Merry Go Round of Life",
+        "artist": "Joe Hisaishi",
+        "why": "Waltz-like but emotional, piano with orchestration, Studio Ghibli warmth",
+        "borrow_element": "Emotional piano melody style, warm string integration"
+      },
+      {
+        "title": "The Social Network Score",
+        "artist": "Trent Reznor & Atticus Ross",
+        "why": "Electronic meets emotional, represents technology and human cost",
+        "borrow_element": "Electronic texture, intelligent sound design"
+      },
+      {
+        "title": "Time",
+        "artist": "Hans Zimmer",
+        "why": "Building emotional arc, simple motif developed",
+        "borrow_element": "Structural build, emotional payoff"
+      },
+      {
+        "title": "Arrival Score",
+        "artist": "Jóhann Jóhannsson",
+        "why": "Contemplative, intelligent, warm electronics",
+        "borrow_element": "Thoughtful pacing, warm electronic pads"
+      }
+    ],
+
+    "copyright_free_sources": [
+      "YouTube Audio Library: Search 'cinematic piano hopeful'",
+      "Epidemic Sound: 'Indie Cinematic' category",
+      "Artlist: 'Technology & Innovation' playlist",
+      "Uppbeat: 'Inspirational Corporate' filtered for piano"
+    ]
+  },
+
+  "scene_music_details": {
+    "scene_01": {
+      "scene_id": "E01_S01",
+      "timestamp": "00:00 - 00:10",
+      "duration": "10s",
+      "description": "Luna wakes up in cramped bedroom, surrounded by monitors showing code and crypto charts",
+      "characters": ["Luna"],
+      "teaching_moment": null,
+      
+      "music_requirements": {
+        "emotional_tone": "Mysterious morning energy, competent routine, slightly detached",
+        "energy_level": 2,
+        "tempo": "80 BPM",
+        "instrumentation": ["Sparse piano notes", "Ambient synth pad"],
+        "theme": "Introduction - no full theme yet, establishing mood",
+        "dynamic": "Very soft, steady",
+        "volume_relative": 6
+      },
+      
+      "sound_effects": {
+        "diegetic": [
+          {"sfx": "Computer fan hum (ambient)", "timestamp": "00:00-00:10", "volume": "very low", "description": "Multiple monitors running", "source": "Freesound.org: computer ambient"},
+          {"sfx": "Subtle alarm beep", "timestamp": "00:02", "volume": "low", "description": "Phone alarm (gentle, not jarring)", "source": "Custom or iOS alarm sound"}
+        ],
+        "non_diegetic": [],
+        "asmr": [
+          {"sfx": "Gentle morning room tone", "timestamp": "00:00-00:10", "volume": "very low", "description": "Creates comfortable waking atmosphere", "source": "Freesound.org: room tone bedroom"}
+        ]
+      },
+      
+      "sync_points": [
+        {"timestamp": "00:02", "event": "Luna opens eyes", "music_action": "Single piano note (C)"},
+        {"timestamp": "00:07", "event": "She looks at monitors", "music_action": "Synth pad swells slightly"}
+      ],
+      
+      "dialogue_presence": true,
+      "dialogue_text": "[VO] In a country where money evaporates overnight...",
+      "duck_music": true,
+      "duck_to_level": 4
+    },
+
+    "scene_02": {
+      "scene_id": "E01_S02",
+      "timestamp": "00:10 - 00:20",
+      "duration": "10s",
+      "description": "Close-ups of monitors showing Luna's automated systems: crypto trading bot with profits, content generation AI, price arbitrage algorithm",
+      "characters": ["Luna"],
+      "teaching_moment": "Visual introduction to automated systems - viewer sees multiple monitors with different bots working",
+      
+      "music_requirements": {
+        "emotional_tone": "Impressive competence, satisfying 'it's working' feeling, intelligent",
+        "energy_level": 4,
+        "tempo": "80 BPM (transitioning toward faster)",
+        "instrumentation": ["Piano (simple pattern)", "Synth pad", "Subtle digital clicks"],
+        "theme": "Early algorithm motif - repeating pattern representing automated loop",
+        "dynamic": "Soft, building slightly",
+        "volume_relative": 6
+      },
+      
+      "sound_effects": {
+        "diegetic": [
+          {"sfx": "Keyboard typing (single clicks)", "timestamp": "00:11", "volume": "medium", "description": "Luna types command", "source": "Mechanical keyboard sample"},
+          {"sfx": "Success notification (pleasant)", "timestamp": "00:15", "volume": "medium", "description": "Crypto bot shows profit", "source": "Custom chime or iOS notification"},
+          {"sfx": "Subtle data processing sounds", "timestamp": "00:10-00:20", "volume": "very low", "description": "Computers working", "source": "Synthesized or hard drive sounds"}
+        ],
+        "non_diegetic": [
+          {"sfx": "Gentle digital shimmer", "timestamp": "00:15", "volume": "low", "description": "Emphasizes 'money appearing' moment", "source": "Synthesized or Freesound"}
+        ],
+        "asmr": [
+          {"sfx": "Mouse clicks (soft)", "timestamp": "00:12, 00:17", "volume": "low", "description": "Luna navigating interfaces", "source": "High-quality mouse click sample"}
+        ]
+      },
+      
+      "sync_points": [
+        {"timestamp": "00:11", "event": "Luna types", "music_action": "Piano plays ascending three notes", "sfx": "Keyboard sound"},
+        {"timestamp": "00:15", "event": "Profit notification appears", "music_action": "Subtle upward piano flourish", "sfx": "Success chime"}
+      ],
+      
+      "dialogue_presence": true,
+      "dialogue_text": "[VO] ...I built machines that make it appear.",
+      "duck_music": true,
+      "duck_to_level": 4
+    },
+
+    "scene_03": {
+      "scene_id": "E01_S03",
+      "timestamp": "00:20 - 00:30",
+      "duration": "10s",
+      "description": "Luna makes coffee in tiny kitchen, glances at family photos on wall, returns to monitors",
+      "characters": ["Luna"],
+      "teaching_moment": null,
+      
+      "music_requirements": {
+        "emotional_tone": "Brief human moment, but still detached - routine",
+        "energy_level": 3,
+        "tempo": "80 BPM",
+        "instrumentation": ["Piano", "Synth pad (reduced)"],
+        "theme": "Moment of pause before montage",
+        "dynamic": "Soft",
+        "volume_relative": 5
+      },
+      
+      "sound_effects": {
+        "diegetic": [
+          {"sfx": "Coffee machine (simple)", "timestamp": "00:21", "volume": "medium", "description": "Makes coffee", "source": "Coffee maker sound"},
+          {"sfx": "Mug placed on counter", "timestamp": "00:25", "volume": "low", "description": "Ceramic on surface", "source": "Foley or Freesound"},
+          {"sfx": "Footsteps (2-3)", "timestamp": "00:27-00:29", "volume": "low", "description": "Returns to desk", "source": "Soft indoor footsteps"}
+        ],
+        "non_diegetic": [],
+        "asmr": [
+          {"sfx": "Liquid pour (coffee)", "timestamp": "00:22", "volume": "low", "description": "Satisfying morning ritual", "source": "High-quality pour sound"}
+        ]
+      },
+      
+      "sync_points": [
+        {"timestamp": "00:24", "event": "Luna looks at family photo", "music_action": "Piano plays single sustained note (hint of emotion)"},
+        {"timestamp": "00:29", "event": "Returns to desk", "music_action": "Synth pad returns, music beginning to build toward montage"}
+      ],
+      
+      "dialogue_presence": false,
+      "duck_music": false
+    },
+
+    "scene_04_to_12": {
+      "scene_id": "E01_S04-S12_MONTAGE",
+      "timestamp": "00:30 - 02:30",
+      "duration": "2m00s",
+      "description": "TEACHING MONTAGE: Visual breakdown of Luna's automated systems helping users. Crypto trading for family savings, content generation AI creating educational materials, price arbitrage helping people buy food cheaper, medicine coordination, skill exchange platform. Each system shown working, with quick explanation.",
+      "characters": ["Luna", "Various network users (implied/shown briefly)"],
+      "teaching_moment": "PRIMARY TEACHING SECTION - Explains algorithms, automation, digital economy, how code helps real people",
+      
+      "music_requirements": {
+        "emotional_tone": "Energetic, impressive, satisfying, educational clarity, building complexity",
+        "energy_level": 7,
+        "tempo": "120 BPM (builds from 80 to 120 by 00:45)",
+        "instrumentation": ["Piano (ascending arpeggios)", "Synth layers (adding complexity)", "Electronic percussion (light)", "Bass (steady)", "Digital glitches (rhythmic, not chaotic)"],
+        "theme": "Algorithm Montage - represents multiple systems working in harmony",
+        "dynamic": "Medium to medium-forte, building",
+        "volume_relative": 7
+      },
+      
+      "sound_effects": {
+        "note": "SFX sparse during montage - music carries energy, specific SFX punctuate key moments",
+        "diegetic": [
+          {"sfx": "Various notification pings", "timestamp": "scattered throughout", "volume": "medium", "description": "Systems completing tasks", "source": "Multiple pleasant notification sounds"},
+          {"sfx": "Data transfer whooshes (subtle)", "timestamp": "00:45, 01:15, 01:45", "volume": "low", "description": "Represents automation working", "source": "Synthesized or Freesound"}
+        ],
+        "non_diegetic": [
+          {"sfx": "Success chimes (musical)", "timestamp": "01:00, 01:30, 02:00", "volume": "medium", "description": "Mark major teaching points", "source": "Synthesized to match music key"}
+        ],
+        "asmr": []
+      },
+      
+      "sync_points": [
+        {"timestamp": "00:45", "event": "First system fully explained", "music_action": "Tempo reaches 120 BPM, percussion enters"},
+        {"timestamp": "01:00", "event": "Second system introduced", "music_action": "Add synth layer"},
+        {"timestamp": "01:30", "event": "Third system (medicine coordination)", "music_action": "Strings hint briefly (foreshadowing human element)"},
+        {"timestamp": "02:00", "event": "All systems shown working together", "music_action": "Peak complexity - all instruments playing, impressive but organized"},
+        {"timestamp": "02:15", "event": "Transition: focus shifts to one user's face (grateful)", "music_action": "Music begins to simplify, preparing for emotional shift"}
+      ],
+      
+      "dialogue_presence": true,
+      "dialogue_text": "[VO] Multiple explanations of technical concepts, but music doesn't duck - VO mixed clearly over music",
+      "duck_music": false,
+      "mixing_note": "Voice-over should be clear (high pass filter on music during VO) but music maintains energy"
+    },
+
+    "scene_13": {
+      "scene_id": "E01_S13",
+      "timestamp": "02:30 - 02:45",
+      "duration": "15s",
+      "description": "Abuela (grandmother) cooking traditional meal in kitchen, humming, warm atmosphere",
+      "characters": ["Abuela"],
+      "teaching_moment": null,
+      
+      "music_requirements": {
+        "emotional_tone": "Warm, familial, contrasts with digital world, human texture",
+        "energy_level": 4,
+        "tempo": "95 BPM (slowing from montage)",
+        "instrumentation": ["Cello (first entrance - significant)", "Piano (melodic, less algorithmic)", "Synth pad (reduced presence)"],
+        "theme": "Family warmth - strings represent analog human connection",
+        "dynamic": "Soft to medium",
+        "volume_relative": 5
+      },
+      
+      "sound_effects": {
+        "diegetic": [
+          {"sfx": "Cooking sounds (sizzling, stirring)", "timestamp": "02:30-02:45", "volume": "medium", "description": "Grandmother cooking", "source": "Kitchen foley"},
+          {"sfx": "Wooden spoon on pot", "timestamp": "02:35", "volume": "medium", "description": "Stirring", "source": "Foley"},
+          {"sfx": "Grandmother humming (gentle)", "timestamp": "02:38-02:45", "volume": "low", "description": "Contentment, traditional melody", "source": "Actress or musical hum"}
+        ],
+        "non_diegetic": [],
+        "asmr": [
+          {"sfx": "Knife chopping (rhythmic, soft)", "timestamp": "02:32-02:38", "volume": "low", "description": "Satisfying cooking ASMR", "source": "High-quality foley"}
+        ]
+      },
+      
+      "sync_points": [
+        {"timestamp": "02:30", "event": "Camera transitions from Luna's screens to grandmother", "music_action": "Strings (cello) enter for first time - major emotional shift"},
+        {"timestamp": "02:38", "event": "Grandmother hums", "music_action": "Piano melody becomes more human, less pattern-based"}
+      ],
+      
+      "dialogue_presence": false,
+      "duck_music": false
+    },
+
+    "scene_14": {
+      "scene_id": "E01_S14",
+      "timestamp": "02:45 - 03:30",
+      "duration": "45s",
+      "description": "Family dinner: Mother, Father, Grandmother, Uncle at table. Luna arrives late, immediately pulls out laptop. Family exchanges looks but says nothing.",
+      "characters": ["Luna", "Mother", "Father", "Abuela", "Uncle"],
+      "teaching_moment": "Emotional teaching: Show cost of digital isolation, family dynamics",
+      
+      "music_requirements": {
+        "emotional_tone": "Bittersweet - family warmth vs Luna's absence, gentle sadness without judgment",
+        "energy_level": 4,
+        "tempo": "95 BPM",
+        "instrumentation": ["Strings (warm cello, violin)", "Piano (humanized)", "Synth pad (conflicts with strings)", "Bass (soft)"],
+        "theme": "Isolation revealed - synth vs strings tension",
+        "dynamic": "Soft, contemplative",
+        "volume_relative": 4
+      },
+      
+      "sound_effects": {
+        "diegetic": [
+          {"sfx": "Chairs scraping", "timestamp": "02:46", "volume": "low", "description": "Luna sits", "source": "Foley"},
+          {"sfx": "Laptop opening", "timestamp": "02:52", "volume": "medium", "description": "Luna sets up to work", "source": "Laptop sound"},
+          {"sfx": "Keyboard typing (ongoing)", "timestamp": "03:00-03:25", "volume": "low", "description": "Luna working during meal", "source": "Soft mechanical keyboard"},
+          {"sfx": "Silverware on plates", "timestamp": "scattered", "volume": "low", "description": "Family eating", "source": "Foley"},
+          {"sfx": "Quiet conversation murmurs", "timestamp": "03:05-03:25", "volume": "very low", "description": "Family talking, Luna not participating", "source": "Background ambience"}
+        ],
+        "non_diegetic": [],
+        "asmr": []
+      },
+      
+      "sync_points": [
+        {"timestamp": "02:52", "event": "Luna opens laptop at dinner table", "music_action": "Key shifts to A Minor, strings fade slightly, synth pad becomes more prominent - represents her choosing digital over family"},
+        {"timestamp": "03:15", "event": "Mother glances at Luna sadly", "music_action": "Cello plays sustained melancholy note"},
+        {"timestamp": "03:25", "event": "Family continues dinner without Luna's engagement", "music_action": "Strings and synth in gentle dissonance - both present, not harmonizing"}
+      ],
+      
+      "dialogue_presence": true,
+      "dialogue_text": "Brief family small talk (Spanish/Spanglish), Luna's distracted 'mm-hmm' responses",
+      "duck_music": true,
+      "duck_to_level": 3
+    },
+
+    "scene_15": {
+      "scene_id": "E01_S15",
+      "timestamp": "03:30 - 04:00",
+      "duration": "30s",
+      "description": "Post-dinner: Luna alone at desk, family cleaning kitchen in background (out of focus). Luna checks systems, sees increasing user numbers. Brief satisfaction, then back to emptiness.",
+      "characters": ["Luna"],
+      "teaching_moment": "Emotional: Success without connection is hollow",
+      
+      "music_requirements": {
+        "emotional_tone": "Empty success, hollow victory, quiet loneliness",
+        "energy_level": 3,
+        "tempo": "95 BPM",
+        "instrumentation": ["Piano (sparse, isolated)", "Synth pad (cold)", "No strings (family gone)", "Minimal bass"],
+        "theme": "Isolation complete - return to digital emptiness",
+        "dynamic": "Very soft",
+        "volume_relative": 4
+      },
+      
+      "sound_effects": {
+        "diegetic": [
+          {"sfx": "Keyboard typing (rhythmic)", "timestamp": "03:35-03:55", "volume": "low", "description": "Luna coding", "source": "Mechanical keyboard"},
+          {"sfx": "Distant family sounds (washing dishes)", "timestamp": "03:30-04:00", "volume": "very low", "description": "Life happening without her", "source": "Kitchen ambience"},
+          {"sfx": "Notification ping", "timestamp": "03:45", "volume": "medium", "description": "New user joined network", "source": "Notification sound"}
+        ],
+        "non_diegetic": [],
+        "asmr": [
+          {"sfx": "Empty room tone", "timestamp": "03:30-04:00", "volume": "very low", "description": "Emphasizes isolation", "source": "Silent room recording"}
+        ]
+      },
+      
+      "sync_points": [
+        {"timestamp": "03:35", "event": "Luna returns to desk, family behind her", "music_action": "Return to C Major but feels emptier now"},
+        {"timestamp": "03:45", "event": "Notification: new user", "music_action": "Brief upward piano notes (satisfaction)"},
+        {"timestamp": "03:52", "event": "Luna's brief smile fades", "music_action": "Piano returns to sparse, isolated notes"},
+        {"timestamp": "03:58", "event": "Transition: something changes on screen", "music_action": "Music pauses briefly - moment of anticipation"}
+      ],
+      
+      "dialogue_presence": false,
+      "duck_music": false
+    },
+
+    "scene_16_to_18": {
+      "scene_id": "E01_S16-S18_CONNECTION",
+      "timestamp": "04:00 - 05:30",
+      "duration": "1m30s",
+      "description": "Luna receives message from network user - not just thanks, but personal story. Family reunited because of medicine coordination. Attached photo of family embracing. Luna reads, visibly affected. First crack in her armor.",
+      "characters": ["Luna"],
+      "teaching_moment": "EMOTIONAL CORE: Code affects real people, algorithms serve humans, connection matters",
+      
+      "music_requirements": {
+        "emotional_tone": "Surprise → Curiosity → Vulnerability → Cautious hope",
+        "energy_level": 5,
+        "tempo": "90 BPM",
+        "instrumentation": ["Piano (contemplative, melodic)", "Strings (warm return, emotional)", "Synth pad (softened, warm)", "No percussion"],
+        "theme": "CONNECTION THEME first appearance - three ascending notes on strings, will recur in future episodes",
+        "dynamic": "Soft, intimate, building gently",
+        "volume_relative": 5
+      },
+      
+      "sound_effects": {
+        "diegetic": [
+          {"sfx": "Message notification (different, special)", "timestamp": "04:02", "volume": "medium", "description": "Stands out from usual pings", "source": "Unique chime"},
+          {"sfx": "Mouse scroll (subtle)", "timestamp": "04:10, 04:25, 04:40", "volume": "low", "description": "Luna reading message", "source": "Trackpad or mouse scroll"},
+          {"sfx": "Image loading (brief digital sound)", "timestamp": "04:30", "volume": "low", "description": "Photo attachment opens", "source": "Synthesized or computer sound"}
+        ],
+        "non_diegetic": [
+          {"sfx": "Warm pad swell (emotional)", "timestamp": "04:45", "volume": "low", "description": "Emphasizes emotional impact", "source": "Synthesized, matches music key"}
+        ],
+        "asmr": []
+      },
+      
+      "sync_points": [
+        {"timestamp": "04:02", "event": "Special notification arrives", "music_action": "Piano plays new, questioning motif"},
+        {"timestamp": "04:15", "event": "Luna begins reading personal story", "music_action": "Strings enter softly (first time since family scene - connection returning)"},
+        {"timestamp": "04:30", "event": "Opens photo of reunited family", "music_action": "Strings play CONNECTION THEME (three ascending notes) - this is THE moment"},
+        {"timestamp": "04:45", "event": "Luna's eyes well slightly", "music_action": "Piano and strings in harmony (digital and human balanced)"},
+        {"timestamp": "05:00", "event": "Luna touches screen gently", "music_action": "CONNECTION THEME developed, fuller orchestration"},
+        {"timestamp": "05:15", "event": "She closes laptop slowly, processing", "music_action": "Music sustains, doesn't resolve - question posed"}
+      ],
+      
+      "dialogue_presence": true,
+      "dialogue_text": "[VO] Message text read aloud (warm, grateful voice) - user's story",
+      "duck_music": true,
+      "duck_to_level": 4,
+      "mixing_note": "Voice-over should feel like it's part of the music - intimate, not separate"
+    },
+
+    "scene_19_to_22": {
+      "scene_id": "E01_S19-S22_OUTRO",
+      "timestamp": "05:30 - 06:45",
+      "duration": "1m15s",
+      "description": "Luna looks at family photo on wall. Then at her screens. Then at both. Sees family asleep in living room. Contemplates. Episode ends with her at window, city lights below, uncertainty but possibility.",
+      "characters": ["Luna", "Family (sleeping)"],
+      "teaching_moment": "Thematic: Technology serves people, not replaces them. Question posed, not answered.",
+      
+      "music_requirements": {
+        "emotional_tone": "Thoughtful, vulnerable, hopeful uncertainty, open-ended",
+        "energy_level": 4,
+        "tempo": "90 BPM, rhythm loosening (less mechanical)",
+        "instrumentation": ["Piano (equal partner)", "Strings (equal partner)", "Synth pad (warm, barely present)", "Bass (grounding)"],
+        "theme": "CONNECTION THEME returns, developed. Balance of digital and human. Unresolved ending.",
+        "dynamic": "Soft, gentle fade over final 30 seconds",
+        "volume_relative": 5
+      },
+      
+      "sound_effects": {
+        "diegetic": [
+          {"sfx": "Distant city sounds (through window)", "timestamp": "06:00-06:45", "volume": "very low", "description": "Urban ambience", "source": "City night ambience"},
+          {"sfx": "Family member's soft snore", "timestamp": "05:50", "volume": "very low", "description": "Family sleeping peacefully", "source": "Foley"},
+          {"sfx": "Luna's quiet exhale", "timestamp": "06:10", "volume": "low", "description": "Release of tension", "source": "Actress or foley"}
+        ],
+        "non_diegetic": [],
+        "asmr": [
+          {"sfx": "Night ambience (very subtle)", "timestamp": "05:30-06:45", "volume": "very low", "description": "Peaceful contemplation atmosphere", "source": "Night room tone"}
+        ]
+      },
+      
+      "sync_points": [
+        {"timestamp": "05:35", "event": "Luna looks at family photo", "music_action": "Strings warm"},
+        {"timestamp": "05:50", "event": "Looks at screens", "music_action": "Piano responds"},
+        {"timestamp": "06:05", "event": "Sees sleeping family", "music_action": "Strings and piano in harmony"},
+        {"timestamp": "06:20", "event": "At window, looking out", "music_action": "CONNECTION THEME returns, more developed"},
+        {"timestamp": "06:30", "event": "Final shot - her silhouette", "music_action": "Music doesn't fully resolve - ends on suspended fourth chord (question, possibility)"},
+        {"timestamp": "06:40", "event": "Fade to credits", "music_action": "Gentle fade, CONNECTION THEME motif lingers as last element"}
+      ],
+      
+      "dialogue_presence": false,
+      "duck_music": false,
+      "mixing_note": "Final 15 seconds should fade naturally, not hard cut. CONNECTION THEME (three notes on strings) should be last audible element before silence."
+    }
+  },
+
+  "sfx_master_list": {
+    "technology_sounds": [
+      {"name": "Computer fan hum", "quantity": 1, "duration": "continuous", "source": "Freesound.org"},
+      {"name": "Keyboard typing - mechanical (rhythmic)", "quantity": 10, "duration": "variable", "source": "Mechanical keyboard recording"},
+      {"name": "Keyboard typing - soft (sparse)", "quantity": 5, "duration": "variable", "source": "Laptop keyboard"},
+      {"name": "Mouse clicks", "quantity": 8, "duration": "instant", "source": "Trackpad clicks"},
+      {"name": "Mouse scroll", "quantity": 6, "duration": "1s", "source": "Scroll wheel sound"},
+      {"name": "Notification pings (pleasant, varied)", "quantity": 15, "duration": "instant", "source": "iOS/custom chimes"},
+      {"name": "Special notification (unique)", "quantity": 1, "duration": "instant", "source": "Custom synthesis"},
+      {"name": "Laptop open/close", "quantity": 3, "duration": "1s", "source": "Foley"},
+      {"name": "Success chimes (musical, in key)", "quantity": 3, "duration": "2s", "source": "Synthesized to match music"},
+      {"name": "Data transfer whooshes", "quantity": 3, "duration": "2s", "source": "Synthesized or Freesound"}
+    ],
+    
+    "environment_sounds": [
+      {"name": "Bedroom morning ambience", "quantity": 1, "duration": "10s", "source": "Room tone"},
+      {"name": "Kitchen cooking sounds", "quantity": 1, "duration": "continuous", "source": "Foley"},
+      {"name": "Silverware on plates", "quantity": 8, "duration": "instant", "source": "Foley"},
+      {"name": "Chairs scraping", "quantity": 2, "duration": "1s", "source": "Foley"},
+      {"name": "Distant family conversation", "quantity": 1, "duration": "continuous", "source": "Background murmur"},
+      {"name": "City night ambience", "quantity": 1, "duration": "continuous", "source": "Urban soundscape"},
+      {"name": "Indoor footsteps (soft)", "quantity": 4, "duration": "2s", "source": "Foley"}
+    ],
+    
+    "emotional_cues": [
+      {"name": "Warm pad swell", "quantity": 1, "duration": "3s", "source": "Synthesized"},
+      {"name": "Digital shimmer (gentle)", "quantity": 1, "duration": "2s", "source": "Synthesized"}
+    ],
+    
+    "asmr_elements": [
+      {"name": "Coffee pour", "quantity": 1, "duration": "3s", "source": "High-quality liquid foley"},
+      {"name": "Knife chopping (rhythmic)", "quantity": 1, "duration": "6s", "source": "Kitchen foley"},
+      {"name": "Wooden spoon stirring", "quantity": 1, "duration": "variable", "source": "Kitchen foley"},
+      {"name": "Page turning (if used)", "quantity": 0, "duration": "1s", "source": "Paper foley"},
+      {"name": "Empty room tone", "quantity": 1, "duration": "continuous", "source": "Silent room recording"},
+      {"name": "Gentle breathing", "quantity": 1, "duration": "10s", "source": "Actress or foley"},
+      {"name": "Fabric rustle (clothing)", "quantity": 3, "duration": "instant", "source": "Foley"}
+    ]
+  },
+
+  "mixing_specifications": {
+    "music_base_level": "-18 LUFS",
+    "music_during_vo_level": "-24 LUFS",
+    "voice_over_level": "-16 LUFS",
+    "sfx_diegetic_level": "-12 to -15 LUFS (varies by importance)",
+    "sfx_non_diegetic_level": "-18 LUFS",
+    "asmr_elements_level": "-21 to -24 LUFS (subtle)",
+    "master_limiter_ceiling": "-1 dB",
+    "master_normalization_target": "-14 LUFS (YouTube/streaming standard)",
+    
+    "eq_guidelines": {
+      "music_during_vo": "High-pass filter at 200Hz to clear vocal range",
+      "voice_over": "Presence boost 2-4kHz, low cut below 80Hz",
+      "diegetic_sfx": "Natural, realistic EQ",
+      "asmr": "Gentle high-frequency emphasis for clarity"
+    },
+    
+    "compression": {
+      "music": "Light 2:1 ratio, -20dB threshold",
+      "voice_over": "Moderate 3:1 ratio, -18dB threshold",
+      "master": "Gentle limiting for streaming platforms"
+    }
+  },
+
+  "production_notes": {
+    "sora_generation_approach": "Generate video with NO audio or minimal ambient sound only. All music and SFX added in post.",
+    "music_source_decision": "PRIMARY: AI generate using Suno prompt provided. BACKUP: Source similar copyright-free track using search keywords.",
+    "sfx_source_priority": "1. Freesound.org (free), 2. Custom foley recording, 3. BBC Sound Effects (free), 4. Epidemic Sound (subscription)",
+    "sync_workflow": "1. Generate/source music master track, 2. Gather all SFX, 3. Edit video in DaVinci Resolve or Premiere, 4. Mix audio with video using sync points, 5. Master to -14 LUFS.",
+    "deliverables": [
+      "Episode_01_Master_Track.wav (music)",
+      "Episode_01_SFX_Pack.zip (all sound effects)",
+      "Episode_01_VO.wav (voice-over)",
+      "Episode_01_Final_Mix.wav (stereo master)",
+      "Episode_01_Final_Video.mp4 (video + audio)"
+    ]
+  },
+
+  "continuity_notes_for_series": {
+    "connection_theme": "Three ascending notes on strings (D-E-G in C Major). First appears 04:45, episode 1. Will recur in episodes when Luna experiences human connection. Should develop and expand across series.",
+    "lunas_theme": "Piano-based, ascending arpeggios, represents her intelligence and growth. Currently mechanical, will become more expressive across episodes.",
+    "instrumentation_evolution": "Episode 1: Sparse, mechanical. Later episodes will add: full orchestra (community), guitar (Mateo), percussion (energy), maintaining piano/strings/synth core.",
+    "emotional_palette": "Established C Major (hope) and A Minor (isolation). Future episodes may explore other keys for different emotional states."
+  }
+}

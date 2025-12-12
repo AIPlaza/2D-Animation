@@ -1,0 +1,865 @@
+{
+  "matrix_metadata": {
+    "project_title": "The Algorithm of Hope",
+    "generated_from": "plot.json + luna_character.json + mateo_character.json + vega_character.json + abuela_character.json + [all_character_files]",
+    "total_characters": 5,
+    "color_theory_approach": "Temperature-based relationships with saturation evolution tracking character growth. Warm protagonists vs cool antagonist, with neutral elder wisdom. Color intensity increases Act 1→3 representing emotional opening.",
+    "primary_palette_strategy": "Hybrid analog-digital aesthetic: warm human colors (coral, earth tones) contrast with cool surveillance colors (slate, steel). Visual storytelling through chromatic temperature and saturation levels.",
+    "version": "1.0",
+    "date_generated": "2025-12-12"
+  },
+
+  "character_energies": {
+    "luna_reyes": {
+      "character_id": "LUNA_REYES_001",
+      "energy_descriptor": "Lightning",
+      "rationale": "Fast, bright, connecting, electrifying - represents her intelligence and speed of thought, plus her journey from isolated spark to network conductor",
+      
+      "color_identity": {
+        "primary_hues": ["#C68E6F", "#F08080", "#4682B4"],
+        "primary_names": ["Warm medium brown (skin)", "Coral/peach (Act 3 growth)", "Steel blue (digital world)"],
+        "temperature": "Warm (with cool digital accents)",
+        "temperature_kelvin": "3800K (warm golden hour moving toward 4500K neutral by Act 3)",
+        "saturation_level": "Medium in Act 1, High in Act 3",
+        "saturation_percentage": "45% → 75% (desaturated isolation to vibrant connection)",
+        "value_range": "Mid-range (50-65% brightness)",
+        "accent_colors": ["#C0C0C0", "#FFD700", "#800020"],
+        "accent_names": ["Silver (grandmother's bracelet)", "Gold (connection gifts)", "Burgundy (signature sneakers)"]
+      },
+      
+      "personality_color_mapping": {
+        "brilliant_but_isolated": "Warm skin tone contrasts with cool digital blue - humanity vs technology tension",
+        "witty_deflection": "Coral/peach brightness - humor as light in darkness",
+        "growing_vulnerability": "Increasing saturation represents emotional opening",
+        "tech_integration": "Steel blue digital accents integrated naturally, not dominating",
+        "family_anchor": "Silver bracelet constant - grounding element in all color states"
+      },
+      
+      "color_evolution": {
+        "act_1": "Muted warm tones (45% saturation) + prominent cool digital blues. Represents isolation in digital world. Palette dominated by grays and blues with warm skin tone feeling separate.",
+        "act_2": "Gradual warming - coral begins appearing (60% saturation). Digital blue becomes warmer teal. Integration beginning. Conflicts visible as warm/cool clashes.",
+        "act_3": "Vibrant warm palette (75% saturation) - coral/peach dominant, teal fully integrated as warm accent. Represents complete emotional opening and digital-analog synthesis."
+      },
+      
+      "symbolic_colors": {
+        "grandmothers_bracelet": {
+          "color": "#C0C0C0",
+          "meaning": "Silver = timeless wisdom, analog connection, family continuity. Always visible in every scene - constant amid change."
+        },
+        "coding_screens": {
+          "color": "#4682B4 → #20B2AA",
+          "meaning": "Steel blue → Light sea green. Digital world warming from cold to organic."
+        },
+        "signature_sneakers": {
+          "color": "#800020",
+          "meaning": "Burgundy = individuality, slight rebelliousness, constant self amid growth"
+        }
+      }
+    },
+
+    "mateo_silva": {
+      "character_id": "MATEO_SILVA_001",
+      "energy_descriptor": "Ember",
+      "rationale": "Slow-burning, warm, spreads naturally, illuminates surroundings - represents his patient passion and how he warms Luna's cold digital world",
+      
+      "color_identity": {
+        "primary_hues": ["#8B4513", "#D2691E", "#228B22", "#FFD700"],
+        "primary_names": ["Saddle brown (skin)", "Chocolate/copper (clothing)", "Forest green (activist)", "Gold (art/light)"],
+        "temperature": "Warm",
+        "temperature_kelvin": "3200K (sunset warmth, campfire quality)",
+        "saturation_level": "Medium-high (60-70%)",
+        "saturation_percentage": "Consistent 65% - he's emotionally open from start",
+        "value_range": "Mid to mid-dark (45-60% brightness - grounded)",
+        "accent_colors": ["#FF6347", "#F4A460", "#2F4F4F"],
+        "accent_names": ["Tomato red (spray paint)", "Sandy brown (creativity)", "Dark slate gray (urban environment)"]
+      },
+      
+      "personality_color_mapping": {
+        "passionate_artist": "Earth tones with vibrant paint accents - grounded creativity",
+        "street_wisdom": "Urban greens and browns - belongs to physical world",
+        "patient_warmth": "Consistent warm temperature - doesn't cool when frustrated",
+        "analog_advocate": "Natural pigment colors vs digital RGB - represents physical world",
+        "romantic_heart": "Golden highlights when vulnerable - inner light"
+      },
+      
+      "color_evolution": {
+        "act_1": "Earth tones dominant, slightly dusty (streetwise survival). Gold accents minimal - creativity suppressed by circumstances.",
+        "act_2": "Gold accents increase as creativity flourishes through Luna's support. Earth tones brighten - hope growing.",
+        "act_3": "Full warmth - earth tones + vibrant paint colors + golden highlights. Represents realized potential and partnership with Luna."
+      },
+      
+      "symbolic_colors": {
+        "spray_paint_cans": {
+          "color": "#FF6347",
+          "meaning": "Tomato red = passion, visibility, making the invisible seen (opposite of Luna's initial invisibility goal)"
+        },
+        "projection_art_light": {
+          "color": "#FFD700",
+          "meaning": "Gold = illumination, truth, beauty in darkness. His art literally brings light."
+        }
+      }
+    },
+
+    "comandante_vega": {
+      "character_id": "COMANDANTE_VEGA_001",
+      "energy_descriptor": "Ice",
+      "rationale": "Cold, crystalline, beautiful but dangerous, preserves (controls) - represents her belief in order through control, aesthetically appealing authoritarianism",
+      
+      "color_identity": {
+        "primary_hues": ["#2F4F4F", "#708090", "#4682B4", "#000080"],
+        "primary_names": ["Dark slate gray (authority)", "Slate gray (professionalism)", "Steel blue (surveillance)", "Navy blue (regime)"],
+        "temperature": "Cool",
+        "temperature_kelvin": "6500K (cold fluorescent, clinical)",
+        "saturation_level": "Low (30-40%)",
+        "saturation_percentage": "Desaturated - emotion controlled/suppressed",
+        "value_range": "Mid-dark (35-50% brightness - oppressive)",
+        "accent_colors": ["#C0C0C0", "#800000", "#000000"],
+        "accent_names": ["Silver (rank insignia)", "Dark red (hidden passion/anger)", "Black (absolute control)"]
+      },
+      
+      "personality_color_mapping": {
+        "controlled_authority": "Desaturated cool tones - emotion locked away",
+        "sophisticated_threat": "Slate grays not pure black - intelligence not brutality",
+        "former_idealist": "Steel blue hints at Luna's colors - shows shared past/potential",
+        "desperate_grasping": "Dark red bleeds through when losing control",
+        "surveillance_state": "Cool blues = digital monitoring, inhuman systems"
+      },
+      
+      "color_evolution": {
+        "act_1": "Perfectly controlled slate grays and steel blues. Sophisticated, almost appealing. Professional polish.",
+        "act_2": "Cracks appear - dark reds bleed through (anger, desperation). Blues become harsher, less nuanced.",
+        "act_3": "Desaturation increases further (losing humanity) OR slight warming (redemption hint). Dark reds dominant when desperate. Final frame: slight blue-to-teal shift (possibility of change)."
+      },
+      
+      "symbolic_colors": {
+        "ministry_building": {
+          "color": "#708090",
+          "meaning": "Slate gray = cold modernity, surveillance aesthetic, intimidation through architecture"
+        },
+        "rank_insignia": {
+          "color": "#C0C0C0",
+          "meaning": "Silver = same as Luna's bracelet (twisted mirror - both represent values, but opposite values)"
+        },
+        "suppressed_passion": {
+          "color": "#800000",
+          "meaning": "Dark red = buried idealism now manifesting as control, what she could have been"
+        }
+      }
+    },
+
+    "abuela_carmen": {
+      "character_id": "ABUELA_CARMEN_001",
+      "energy_descriptor": "Stone",
+      "rationale": "Ancient, weathered, enduring, foundation - represents timeless wisdom, grounding, the base upon which Luna builds",
+      
+      "color_identity": {
+        "primary_hues": ["#8B7355", "#D2B48C", "#6B4423", "#F5DEB3"],
+        "primary_names": ["Brown (skin, aged)", "Tan (wisdom-worn)", "Dark brown (hair)", "Wheat (warmth)"],
+        "temperature": "Neutral-warm",
+        "temperature_kelvin": "4200K (candlelight, hearthfire)",
+        "saturation_level": "Low-medium (40-55%)",
+        "saturation_percentage": "Weathered but warm - time has muted but not cooled",
+        "value_range": "Mid to light (50-70% brightness - wise but not dominating)",
+        "accent_colors": ["#8B4513", "#FFE4B5", "#2F4F4F"],
+        "accent_names": ["Saddle brown (books)", "Moccasin (recipe pages)", "Dark slate (reading glasses)"]
+      },
+      
+      "personality_color_mapping": {
+        "ancient_wisdom": "Weathered warm tones - time has passed but warmth remains",
+        "philosophical_grounding": "Earth tones - literally grounded, foundation",
+        "analog_champion": "Organic colors only - no digital blues/teals",
+        "family_matriarch": "Wheat and tan - nourishing colors, sustenance",
+        "quiet_strength": "Low saturation high value - powerful without loudness"
+      },
+      
+      "color_evolution": {
+        "act_1": "Steady warm earth tones. Constant amid chaos. Represents stability.",
+        "act_2": "Unchanged - she is the anchor while others storm. Reliability visualized.",
+        "act_3": "Slight brightness increase (higher value) - vindication, proud. But core colors unchanged - wisdom doesn't evolve, it endures."
+      },
+      
+      "symbolic_colors": {
+        "recipe_book": {
+          "color": "#FFE4B5",
+          "meaning": "Moccasin (aged paper) = analog knowledge, tradition, sustenance both literal and metaphorical"
+        },
+        "philosophy_texts": {
+          "color": "#8B4513",
+          "meaning": "Saddle brown (leather binding) = preserved knowledge, weight of history"
+        }
+      }
+    },
+
+    "tio_felix": {
+      "character_id": "TIO_FELIX_001",
+      "energy_descriptor": "Clay",
+      "rationale": "Malleable, adaptable, shaped by use, practical - represents his surprising adaptability and how he connects digital and analog through bodega",
+      
+      "color_identity": {
+        "primary_hues": ["#CD853F", "#DEB887", "#8B4513", "#F4A460"],
+        "primary_names": ["Peru (skin)", "Burlywood (practical clothing)", "Saddle brown (bodega)", "Sandy brown (warmth)"],
+        "temperature": "Warm",
+        "temperature_kelvin": "3600K (afternoon sun in bodega)",
+        "saturation_level": "Medium (50-60%)",
+        "saturation_percentage": "Approachable warmth - not muted, not vibrant",
+        "value_range": "Mid to mid-light (55-70% brightness - welcoming)",
+        "accent_colors": ["#FFD700", "#8B0000", "#FFFAF0"],
+        "accent_names": ["Gold (good heart)", "Dark red (bodega sign)", "Floral white (flour dust)"]
+      },
+      
+      "personality_color_mapping": {
+        "comic_warmth": "Sandy browns and warm tans - approachable, comfortable",
+        "practical_wisdom": "Peru and burlywood - working colors, not decorative",
+        "bridge_builder": "Colors sit between Luna's cool-warm mix and Mateo's pure warm",
+        "hidden_competence": "Gold accents reveal inner worth beneath humble exterior",
+        "community_hub": "Bodega browns - gathering place, sustenance provider"
+      },
+      
+      "color_evolution": {
+        "act_1": "Dusty browns - survival mode, struggling business. Muted tones.",
+        "act_2": "Browns brighten, gold accents appear - network hub revealed. Value increases.",
+        "act_3": "Full warm palette - thriving community center. Sandy browns vibrant, gold prominent. Success visualized through color."
+      },
+      
+      "symbolic_colors": {
+        "bodega_shelves": {
+          "color": "#8B4513",
+          "meaning": "Saddle brown = reliability, provision, community resource"
+        },
+        "good_heart": {
+          "color": "#FFD700",
+          "meaning": "Gold = hidden value, true worth beneath comic exterior"
+        }
+      }
+    }
+  },
+
+  "relationship_matrix": {
+    "luna_x_mateo": {
+      "relationship_type": "Romantic partnership - opposites attract, complementary strengths",
+      "color_relationship": "Complementary temperature with shared warmth - Luna's warm skin + cool digital vs Mateo's pure warm earth tones. Creates balanced orange-blue-green triad when together.",
+      "visual_dynamic": "Her digital cools invade his analog warmth initially (conflict). Mid-story: colors begin blending (teal appears in both palettes). End-story: harmonious warm palette with integrated cool accents (synthesis).",
+      "harmony_score": 3,
+      "harmony_evolution": "Act 1: 3/10 (clashing temps), Act 2: 6/10 (warming), Act 3: 9/10 (integrated)",
+      
+      "evolution_across_acts": {
+        "act_1": "Visual tension - her cool blues vs his warm browns create uncomfortable contrast. Shot composition keeps them separated. Lighting: cool on her, warm on him. Represents ideological distance.",
+        "act_2": "Colors begin mixing - teal appears as bridge color. She wears warmer clothing, his colors brighten. Shot composition: closer but not touching. Lighting: mixed warm-cool showing integration beginning.",
+        "act_3": "Harmonious palette - shared warm dominance with cool accents both use. Coral + earth tones create unified field. Shot composition: overlapping, sharing frame comfortably. Lighting: unified warm golden hour."
+      },
+      
+      "scene_composition_guidance": {
+        "when_together": "Act 1: Split composition, cool/warm divide visible. Act 2: Overlapping frames, color bleeding. Act 3: Unified composition, complementary not competing.",
+        "lighting_strategy": "Act 1: Split key - cool on Luna, warm on Mateo. Act 2: Mixed lighting with warm gaining dominance. Act 3: Unified warm key with cool rim accents.",
+        "background_approach": "Act 1: Neutral grays allow contrast. Act 2: Warm backgrounds support their growing connection. Act 3: Vibrant unified palette.",
+        "spatial_relationship": "Physical distance in frame mirrors emotional distance. Colors don't blend until characters physically close. Final kiss scene: colors merge completely in frame."
+      },
+      
+      "emotional_palette": {
+        "first_meeting": "#4682B4 (her digital cool) vs #8B4513 (his earth warm) - maximum contrast",
+        "growing_attraction": "#20B2AA (teal bridge emerging in both palettes)",
+        "first_kiss": "#F08080 (coral) + #D2691E (chocolate) = #E97451 (blended warm)",
+        "partnership": "Shared warm palette: #F08080, #D2691E, #228B22, #FFD700"
+      }
+    },
+
+    "luna_x_vega": {
+      "relationship_type": "Antagonistic - ideological opposition, dark mirror",
+      "color_relationship": "Temperature clash + saturation contrast - Luna's warm medium saturation vs Vega's cool low saturation. Both have steel blue but Luna's warms to teal while Vega's stays cold.",
+      "visual_dynamic": "Luna's warmth attempts to penetrate Vega's cold space. Vega's desaturation tries to drain Luna's vibrancy. Battle of chromatic energy - warm life vs cool control.",
+      "harmony_score": 2,
+      "harmony_evolution": "Act 1: 4/10 (Vega seems reasonable), Act 2: 2/10 (opposition clear), Act 3: 3/10 (slight warmth hint = redemption possibility)",
+      
+      "evolution_across_acts": {
+        "act_1": "Vega's cool professionalism vs Luna's emerging warmth. Visual: Vega's slate grays almost appealing, Luna's muted tones seem drab by comparison. Threat not obvious.",
+        "act_2": "Temperature war visible. Luna's colors warming, Vega's cooling further. Dark red bleeds into Vega (desperation). Visual clash intensifies.",
+        "act_3": "Maximum contrast then slight softening. Luna fully vibrant warm, Vega desaturated cold. Final frame: tiny teal shift in Vega (redemption possibility, mirrors Luna's journey)."
+      },
+      
+      "scene_composition_guidance": {
+        "when_together": "Physical distance mandatory - opposite sides of frame. Cool/warm split lighting. Vega in shadows, Luna in light. Colors compete, don't blend.",
+        "lighting_strategy": "Split dramatically. Vega: cool fluorescent (6500K), Luna: warm natural (3800K). No mixing until final scene where Luna's warmth slightly affects Vega's space.",
+        "background_approach": "When in Vega's space (Ministry): cold grays dominate, Luna's warmth struggles. When in Luna's space: warm dominates, Vega's cold invasive. Neutral: gray battleground.",
+        "spatial_relationship": "Maximum frame distance. Use reflections/screens to show them (surveillance motif). When physically close: color temperature clash must be visible and uncomfortable."
+      },
+      
+      "emotional_palette": {
+        "first_meeting": "#708090 (Vega professional slate) vs #C68E6F (Luna cautious warm)",
+        "ideological_battle": "#2F4F4F (Vega's dark control) vs #F08080 (Luna's bright hope)",
+        "vega_desperate": "#800000 (dark red) invades Vega's cool palette",
+        "final_confrontation": "#000080 (Vega's navy) vs #FFD700 (Luna's gold/hope)",
+        "redemption_hint": "#20B2AA (tiny teal in Vega's final frame)"
+      }
+    },
+
+    "luna_x_abuela": {
+      "relationship_type": "Familial - grandmother-granddaughter, wisdom-seeker",
+      "color_relationship": "Analogous warm with generational difference - Luna's vibrant coral vs Abuela's weathered tan. Shared warmth, different saturation levels.",
+      "visual_dynamic": "Abuela's steady warm earth tones provide foundation for Luna's chromatic journey. Luna's colors literally grow from Abuela's palette.",
+      "harmony_score": 8,
+      "harmony_evolution": "Consistent 8/10 - always harmonious, Luna's growth makes harmony richer not creates it",
+      
+      "evolution_across_acts": {
+        "act_1": "Luna muted, Abuela steady. Visual: Luna's potential warmth visible but suppressed, Abuela fully expressed.",
+        "act_2": "Luna warming toward Abuela's palette. Recipe book scenes: colors blend beautifully.",
+        "act_3": "Luna's full warmth complements Abuela's weathered warmth. Different life stages, shared values visualized through analogous warm palette."
+      },
+      
+      "scene_composition_guidance": {
+        "when_together": "Close framing, colors blend naturally. Warm lighting unified. Comfortable spatial proximity.",
+        "lighting_strategy": "Warm unified (3800-4200K). Candlelight, kitchen warmth, hearthfire quality. Never cool or harsh.",
+        "background_approach": "Warm domestic spaces - kitchen, living room. Earth tones, wood, fabric. Supporting not competing.",
+        "spatial_relationship": "Physical closeness = color closeness. Recipe book scenes: their hands in frame together, colors unified."
+      },
+      
+      "emotional_palette": {
+        "teaching_moments": "#F5DEB3 (wheat) + #F08080 (coral) = #F2B097 (nourishing warmth)",
+        "family_meals": "#D2B48C (tan) + #C68E6F (skin tones) = family unity palette",
+        "recipe_book_reveal": "#FFE4B5 (aged paper) grounds Luna's digital blues"
+      }
+    },
+
+    "mateo_x_vega": {
+      "relationship_type": "Oppositional - artist vs authority, visibility vs surveillance",
+      "color_relationship": "Pure warm (Mateo earth tones + gold light) vs pure cool (Vega slate grays). Maximum temperature contrast.",
+      "visual_dynamic": "Mateo's art literally projects warm light onto Vega's cold spaces. His colors invade her world through projection art - visual activism.",
+      "harmony_score": 1,
+      "harmony_evolution": "Consistently 1/10 - no reconciliation, pure opposition throughout",
+      
+      "evolution_across_acts": {
+        "act_1": "Indirect opposition - his warm street art vs her cool surveillance. Don't share frame yet.",
+        "act_2": "Direct confrontation - warm vs cool split lighting when they meet. Temperature war.",
+        "act_3": "His golden projection art on her slate Ministry building - warm conquers cool visually. She cannot escape his warmth/light/truth."
+      },
+      
+      "scene_composition_guidance": {
+        "when_together": "Maximum color conflict. Split frame dramatically. His warmth one side, her cool other. Uncomfortable to view - intentional.",
+        "lighting_strategy": "Never unified. His warm natural light vs her cool fluorescent. Even when in same space, light sources compete.",
+        "background_approach": "Battleground - neutral grays. Or his warm invading her cool space (projection art scenes).",
+        "spatial_relationship": "Physical distance when possible. When close: color temperature clash must be viscerally uncomfortable."
+      },
+      
+      "emotional_palette": {
+        "ideological_opposition": "#FFD700 (his golden truth) vs #2F4F4F (her dark control)",
+        "projection_art_climax": "#FFD700 + #FF6347 (warm light + red passion) projects onto #708090 (her slate building)"
+      }
+    },
+
+    "abuela_x_vega": {
+      "relationship_type": "Philosophical opposition - ancient wisdom vs modern control",
+      "color_relationship": "Warm weathered (Abuela earth tones) vs cool synthetic (Vega slate grays). Natural vs artificial.",
+      "visual_dynamic": "Abuela's organic warmth remains unaffected by Vega's cold. Stone doesn't freeze.",
+      "harmony_score": 2,
+      "harmony_evolution": "Starts 2/10, ends 2/10 - Abuela unmoved, unchanging",
+      
+      "evolution_across_acts": {
+        "act_1": "Haven't met - Abuela's warm kitchen vs Vega's cold office (parallel contrast).",
+        "act_2": "When Vega detains Abuela - Abuela's warmth doesn't diminish in cold space. Visual: her earth tones remain saturated even in gray interrogation room.",
+        "act_3": "Abuela emerged unchanged. Her colors stable throughout - wisdom endures."
+      },
+      
+      "scene_composition_guidance": {
+        "when_together": "Abuela's warmth islands in Vega's cold sea. Low saturation cool surroundings, but Abuela remains fully saturated warm.",
+        "lighting_strategy": "Cool harsh light on space, but Abuela seems to generate her own warm light (inner strength).",
+        "background_approach": "Vega's cold spaces cannot drain Abuela's color - visual metaphor for unbreakable spirit.",
+        "spatial_relationship": "Abuela centered, grounded. Vega moves around her. Stone vs wind."
+      },
+      
+      "emotional_palette": {
+        "detention_scene": "#F5DEB3 (Abuela's wheat warmth) remains vibrant in #2F4F4F (Vega's dark slate) space"
+      }
+    },
+
+    "tio_felix_x_luna": {
+      "relationship_type": "Familial - uncle-niece, comic relief + hidden wisdom",
+      "color_relationship": "Analogous warm - his sandy browns bridge her coral and Mateo's earth tones. He's chromatic mediator.",
+      "visual_dynamic": "His consistent warm approachability creates safe space for her chromatic evolution. Bodega browns are neutral warm ground.",
+      "harmony_score": 7,
+      "harmony_evolution": "Consistent 7/10 - always supportive, grows richer as Luna opens",
+      
+      "scene_composition_guidance": {
+        "when_together": "Warm unified palette. His browns + her corals create inviting space. Bodega scenes warmly lit.",
+        "lighting_strategy": "Warm afternoon sun through bodega windows (3600K). Comfortable, welcoming.",
+        "background_approach": "Bodega browns + product colors create rich warm environment supporting both.",
+        "spatial_relationship": "Casual proximity. His color field welcoming to hers."
+      }
+    }
+  },
+
+  "ensemble_scenes": {
+    "family_dinner_act1": {
+      "scene_description": "Act 1, Pages 15-18: Family dinner, Luna isolated with laptop despite physical presence",
+      "act": 1,
+      "page_range": "15-18",
+      "characters_present": ["Luna", "Mother", "Father", "Abuela", "Tio Felix"],
+      "dominant_character_energy": "Abuela (warm earth tones) dominates, Luna's cool digital creates tension",
+      "color_strategy": "Harmony interrupted - warm family palette vs Luna's cool isolation",
+      
+      "palette_specification": {
+        "foreground_colors": [
+          "#F5DEB3 (Abuela's warmth - dominant)",
+          "#C68E6F (Family skin tones - unified)",
+          "#8B4513 (Table, food - grounding)",
+          "#4682B4 (Luna's laptop glow - invasive cold)"
+        ],
+        "background_colors": [
+          "#D2B48C (Kitchen walls - warm domestic)",
+          "#8B7355 (Wooden cabinets - traditional)",
+          "#FFFAF0 (Warm lighting - hearth)"
+        ],
+        "lighting_temperature": "Warm 3400K overhead + 6500K laptop screen on Luna's face (split)",
+        "accent_highlights": [
+          "#FFD700 (Candlelight - family connection)",
+          "#4682B4 (Screen glow - Luna's isolation)"
+        ]
+      },
+      
+      "emotional_goal": "Viewer should feel warm family love + discomfort at Luna's chromatic and emotional distance",
+      "composition_notes": "Frame family in warm golden triangle composition. Luna on edge of frame, face lit by cold blue screen glow. Color temperature split visible and uncomfortable."
+    },
+
+    "bodega_network_meeting_act2": {
+      "scene_description": "Act 2A, Pages 52-56: First network meeting, diverse community gathering",
+      "act": 2,
+      "page_range": "52-56",
+      "characters_present": ["Luna", "Mateo", "Tio Felix", "Network members (ensemble)"],
+      "dominant_character_energy": "Tio Felix (sandy brown - gathering space) with Luna/Mateo energies merging",
+      "color_strategy": "Harmonious warm gathering with Luna's cool-to-warm transition visible",
+      
+      "palette_specification": {
+        "foreground_colors": [
+          "#CD853F (Felix's welcoming browns)",
+          "#C68E6F (Luna - warming)",
+          "#8B4513 (Mateo's earth tones)",
+          "#20B2AA (Emerging teal - digital/analog bridge)",
+          "Varied skin tones (ensemble diversity)"
+        ],
+        "background_colors": [
+          "#8B4513 (Bodega shelves)",
+          "#D2B48C (Warm walls)",
+          "#F4A460 (Product packaging - life, abundance)"
+        ],
+        "lighting_temperature": "Warm 3800K ambient + 4200K (laptop screens integrated, not dominating)",
+        "accent_highlights": [
+          "#FFD700 (Hope, connection)",
+          "#228B22 (Growth, community)"
+        ]
+      },
+      
+      "emotional_goal": "Warmth, safety, belonging. Luna finding her place in analog community.",
+      "composition_notes": "Circular gathering composition. Warm light from above. Laptop screens present but not cool-toned - showing integration. Colors blend naturally."
+    },
+
+    "ministry_confrontation_act3": {
+      "scene_description": "Act 3, Pages 105-115: Final ideological battle, Ministry building",
+      "act": 3,
+      "page_range": "105-115",
+      "characters_present": ["Luna", "Vega", "Valeria", "Ministry staff"],
+      "dominant_character_energy": "Luna (vibrant warm) conquering Vega's space (desaturated cool)",
+      "color_strategy": "Temperature war - warm truth vs cool control, warm winning",
+      
+      "palette_specification": {
+        "foreground_colors": [
+          "#F08080 (Luna's full coral warmth - maximum saturation)",
+          "#FFD700 (Projection art gold - truth/light)",
+          "#2F4F4F (Vega's desperate dark slate)",
+          "#800000 (Vega's breaking control - dark red)",
+          "#20B2AA (Valeria's redemption teal)"
+        ],
+        "background_colors": [
+          "#708090 (Ministry slate - being invaded)",
+          "#2F4F4F (Surveillance darkness)",
+          "#FFD700 (Projection light transforming space)"
+        ],
+        "lighting_temperature": "Split then convergence: 6500K cool interior being invaded by 3200K warm projection light",
+        "accent_highlights": [
+          "#FF6347 (Mateo's projection art red)",
+          "#FFD700 (Truth light conquering)"
+        ]
+      },
+      
+      "emotional_goal": "Triumph of warmth over cold, hope over control, community over isolation. Cathartic chromatic victory.",
+      "composition_notes": "Start: Vega's cool dominates frame. Progress: warm light invades from edges. Climax: warm light floods entire space, cool corners disappearing. Luna central, backlit by golden projection."
+    },
+
+    "rooftop_finale_act3": {
+      "scene_description": "Act 3, Pages 114-120: Final scene, Luna + community on rooftop, city below",
+      "act": 3,
+      "page_range": "114-120",
+      "characters_present": ["Luna", "Mateo", "Abuela", "Core network members"],
+      "dominant_character_energy": "Unified warm palette - all characters harmonized",
+      "color_strategy": "Complete harmony - digital and analog, individual and community, all colors unified in warm sunset",
+      
+      "palette_specification": {
+        "foreground_colors": [
+          "#F08080 (Luna's full coral)",
+          "#D2691E (Mateo's chocolate)",
+          "#F5DEB3 (Abuela's wheat)",
+          "#FFD700 (Shared gold accents - all characters)",
+          "#20B2AA (Integrated teal - digital warmth)"
+        ],
+        "background_colors": [
+          "#FF6347 (Sunset sky - hope)",
+          "#FFD700 (Golden hour light)",
+          "#228B22 (City greenery below - growth)",
+          "#4682B4 (Sky blue warming to teal)"
+        ],
+        "lighting_temperature": "Warm 3200K sunset (golden hour peak)",
+        "accent_highlights": [
+          "#FFD700 (Shared light/hope)",
+          "#F08080 (Love, community warmth)"
+        ]
+      },
+      
+      "emotional_goal": "Earned peace, hopeful future, synthesis complete. Viewer should feel warm, satisfied, inspired.",
+      "composition_notes": "Wide shot showing community together. Everyone sharing warm palette. City below lit by mixture of their colors - they've changed the world. Sky transitions cool blue → warm teal → golden - visual metaphor for journey complete."
+    }
+  },
+
+  "act_palette_progression": {
+    "act_1": {
+      "dominant_temperature": "Cool with muted warm - digital world dominates",
+      "temperature_kelvin": "5500-6500K (cool fluorescent, screen glow)",
+      "saturation_trend": "Low to medium (35-55% average) - muted, suppressed",
+      "value_contrast": "Medium (40-60% range) - gray world",
+      "emotional_tone": "Isolated efficiency, cold competence, suppressed humanity",
+      "key_colors": [
+        "#4682B4 (Steel blue - digital world)",
+        "#708090 (Slate gray - surveillance)",
+        "#C68E6F (Muted warm skin - potential)",
+        "#2F4F4F (Dark slate - oppression)",
+        "#8B7355 (Earth tones - family foundation)"
+      ],
+      "narrative_meaning": "Digital isolation, potential warmth suppressed, cold systems dominating human warmth. Visual discomfort intentional - wrong path."
+    },
+
+    "act_2a": {
+      "dominant_temperature": "Warming trend - warm gaining ground",
+      "temperature_kelvin": "4500-5500K (neutral moving warm)",
+      "saturation_trend": "Medium (50-65%) - color emerging",
+      "value_contrast": "Medium-high (35-70% range) - dynamic tension",
+      "emotional_tone": "Hope building, connection emerging, struggle between systems and humanity",
+      "key_colors": [
+        "#20B2AA (Teal - bridge color appears)",
+        "#F08080 (Coral emerging - Luna's warmth)",
+        "#D2691E (Mateo's earth - partnership)",
+        "#FFD700 (Gold accents - connection)",
+        "#708090 (Slate - Vega's threat present)"
+      ],
+      "narrative_meaning": "Integration beginning, hope building, but opposition present. Teal bridge color crucial - represents possible synthesis."
+    },
+
+    "act_2b": {
+      "dominant_temperature": "Battle of extremes - hot and cold clashing",
+      "temperature_kelvin": "Split: 3200K (desperate warmth) vs 6500K+ (harsh cool)",
+      "saturation_trend": "Polarized - warm very saturated (75%), cool very desaturated (30%)",
+      "value_contrast": "Extreme (20-80% range) - visual violence",
+      "emotional_tone": "Desperation, everything at stake, chromatic warfare",
+      "key_colors": [
+        "#F08080 (Vibrant coral - Luna fighting)",
+        "#000080 (Navy - Vega's darkness)",
+        "#800000 (Dark red - blood, stakes)",
+        "#FFD700 (Gold - hope flickering)",
+        "#2F4F4F (Oppressive dark)"
+      ],
+      "narrative_meaning": "All is lost moment visualized through color. Warm desperately bright (last stand), cool oppressively dark (crushing force). Maximum tension."
+    },
+
+    "act_3": {
+      "dominant_temperature": "Unified warm - synthesis achieved",
+      "temperature_kelvin": "3200-3800K (golden hour, sunset warmth)",
+      "saturation_trend": "High (70-85%) - full emotional presence",
+      "value_contrast": "Balanced (45-75% range) - harmony",
+      "emotional_tone": "Triumph, community, integration, hope realized",
+      "key_colors": [
+        "#F08080 (Luna's full coral warmth)",
+        "#FFD700 (Gold - shared community light)",
+        "#D2691E (Mateo's partnership earth)",
+        "#20B2AA (Teal - digital/analog unified)",
+        "#228B22 (Forest green - growth, future)"
+      ],
+      "narrative_meaning": "Warm palette dominates, cool fully integrated (not eliminated). Represents synthesis - technology serving humanity, individual within community, digital tools enabling human connection. Visual resolution of all color conflicts."
+    }
+  },
+
+  "color_motifs": {
+    "grandmothers_bracelet_silver": {
+      "description": "Silver bracelet with book charm - visible on Luna's wrist in every scene",
+      "color": "#C0C0C0",
+      "appears_in_scenes": ["All Luna scenes - consistency token"],
+      "symbolic_meaning": "Analog wisdom, family continuity, constant amid change. Mirrors Vega's silver insignia (twisted reflection - values vs control).",
+      "evolution": "Constant color, but prominence increases - hidden in sleeves Act 1, visible Act 2, highlighted Act 3. Represents accepting family connection."
+    },
+
+    "teal_bridge_color": {
+      "description": "Teal/light sea green - appears midpoint Act 2A as digital world warms",
+      "color": "#20B2AA",
+      "appears_in_scenes": ["First appears: Luna-Mateo collaboration scene", "Grows: network building scenes", "Dominant: finale integration"],
+      "symbolic_meaning": "Synthesis of cool digital blue + warm human green. Represents technology serving humanity. The answer to the story's chromatic question.",
+      "evolution": "Absent Act 1 → Emerges Act 2A → Common Act 2B → Integrated Act 3. Tracks Luna's journey from digital-OR-analog to digital-AND-analog."
+    },
+
+    "golden_light_hope": {
+      "description": "Golden accents - appears with connection, community, hope moments",
+      "color": "#FFD700",
+      "appears_in_scenes": ["Mateo's projection art", "Connection moments", "Community gatherings", "Finale sunset"],
+      "symbolic_meaning": "Hope, truth, illumination, shared warmth. Literal light in darkness (Mateo's art). Metaphorical light of community.",
+      "evolution": "Rare/absent Act 1 → Flickers Act 2 → Prominent Act 3. Represents hope building across narrative."
+    },
+
+    "dark_red_stakes": {
+      "description": "Dark red - appears in high-stakes, danger, or suppressed passion moments",
+      "color": "#800000",
+      "appears_in_scenes": ["Vega losing control", "Threat moments", "Suppressed history/trauma"],
+      "symbolic_meaning": "Danger, blood, high stakes. Also: suppressed idealism in Vega. Dual meaning - threat and buried humanity.",
+      "evolution": "Absent early → Bleeds into Vega's palette Act 2B (desperation) → Present in Luna's determination Act 3. Same color, different meaning by context."
+    }
+  },
+
+  "production_guidelines": {
+    "overall_palette": [
+      "#F08080", "#C68E6F", "#4682B4", "#20B2AA", "#FFD700",
+      "#8B4513", "#D2691E", "#228B22", "#F5DEB3", "#CD853F",
+      "#708090", "#2F4F4F", "#800000", "#C0C0C0", "#FFFAF0"
+    ],
+    
+    "palette_usage_guide": {
+      "#F08080": "Luna's coral warmth - primary protagonist color, use for hope/growth",
+      "#C68E6F": "Warm skin tones - shared family/community",
+      "#4682B4": "Digital world cool - use sparingly Act 1, warm to teal by Act 3",
+      "#20B2AA": "Teal bridge - CRITICAL, represents synthesis, grows across acts",
+      "#FFD700": "Golden hope/light - connection, community, projection art",
+      "#8B4513": "Earth brown - grounding, Mateo, family, bodega",
+      "#D2691E": "Chocolate warm - Mateo primary, partnership",
+      "#228B22": "Forest green - growth, activism, life",
+      "#F5DEB3": "Wheat warm - Abuela, nourishment, wisdom",
+      "#CD853F": "Sandy brown - Felix, bridge character, welcome",
+      "#708090": "Slate gray - Vega, authority, surveillance",
+      "#2F4F4F": "Dark slate - oppression, shadows, fear",
+      "#800000": "Dark red - stakes, danger, suppressed passion",
+      "#C0C0C0": "Silver - wisdom (Luna) vs control (Vega), dual meaning",
+      "#FFFAF0": "Floral white - purity, blank canvas, potential"
+    },
+
+    "forbidden_colors": [
+      "#FF00FF (Pure magenta - too artificial, clashes with established palette)",
+      "#00FF00 (Pure lime - too harsh, wrong green)",
+      "#00FFFF (Pure cyan - too digital, use teal instead)",
+      "#FFFFFF (Pure white - only for highlights, never backgrounds)",
+      "#000000 (Pure black - use dark slate #2F4F4F instead)"
+    ],
+    
+    "forbidden_rationale": "Pure digital RGB colors (100% saturation primaries) clash with Studio Ghibli watercolor aesthetic and narrative's analog-digital synthesis theme. Use natural, slightly desaturated equivalents.",
+
+    "color_consistency_rules": [
+      "Luna ALWAYS has silver bracelet visible (#C0C0C0) - non-negotiable identifier",
+      "Mateo ALWAYS has earth tone + golden accent combo - his signature",
+      "Vega NEVER has warm accent until final frame (redemption possibility) - she's closed",
+      "Abuela's palette NEVER changes saturation - she's constant",
+      "Teal (#20B2AA) absent Act 1 - its emergence is plot point",
+      "Family dinner scenes ALWAYS warm lit (3400-3800K) - sanctuary visual",
+      "Ministry scenes ALWAYS cool lit (6000-6500K) unless Luna's warmth invading",
+      "Bodega ALWAYS warm afternoon light (3600K) - community hub consistency",
+      "Act 3 finale MUST be golden hour (3200K) - earned warmth",
+      "Digital screens warm from blue to teal across acts - tracks Luna's journey"
+    ],
+
+    "lighting_templates": {
+      "warm_intimate": {
+        "kelvin": "3200-3800K",
+        "description": "Golden hour, candlelight, hearthfire quality",
+        "use_for": "Family scenes, connection moments, safe spaces, Act 3 resolution"
+      },
+      "cool_tension": {
+        "kelvin": "6000-6500K",
+        "description": "Fluorescent, clinical, surveillance",
+        "use_for": "Ministry, surveillance, Vega's spaces, digital isolation Act 1"
+      },
+      "neutral_transition": {
+        "kelvin": "4500-5000K",
+        "description": "Overcast day, neutral interior",
+        "use_for": "Transition scenes, uncertainty, Act 2 debate moments"
+      },
+      "warm_afternoon": {
+        "kelvin": "3600-4000K",
+        "description": "Late afternoon sun through windows",
+        "use_for": "Bodega, community spaces, hope building"
+      },
+      "split_conflict": {
+        "kelvin": "3200K warm + 6500K cool simultaneous",
+        "description": "Two light sources, opposing temperatures",
+        "use_for": "Luna vs Vega confrontations, internal conflict, Act 2 tension"
+      }
+    },
+
+    "background_palette_library": {
+      "indoor_warm_domestic": ["#D2B48C", "#8B7355", "#F5DEB3", "#CD853F", "#FFFAF0"],
+      "indoor_cool_institutional": ["#708090", "#2F4F4F", "#4682B4", "#696969", "#DCDCDC"],
+      "outdoor_day_urban": ["#87CEEB", "#228B22", "#8B4513", "#696969", "#F5DEB3"],
+      "outdoor_sunset_hopeful": ["#FF6347", "#FFD700", "#F08080", "#20B2AA", "#228B22"],
+      "outdoor_night_cool": ["#000080", "#2F4F4F", "#4682B4", "#696969", "#FFD700 (lights)"],
+      "bodega_interior": ["#8B4513", "#CD853F", "#F4A460", "#D2B48C", "#FFFAF0"],
+      "ministry_interior": ["#708090", "#2F4F4F", "#4682B4", "#C0C0C0", "#DCDCDC"],
+      "rooftop_finale": ["#FF6347", "#FFD700", "#87CEEB", "#228B22", "#F08080"]
+    }
+  },
+
+  "ai_generation_specifications": {
+    "multi_character_scene_prompts": {
+      "template": "When generating scenes with [Character A] and [Character B], emphasize [temperature relationship]. Use [specific hex codes]. [Lighting direction]. [Color interaction notes]. Background: [palette from library]. Avoid: [forbidden colors for this pairing].",
+      
+      "examples": [
+        {
+          "characters": ["Luna", "Mateo"],
+          "act": 2,
+          "color_direction": "Luna #F08080 coral + #20B2AA teal digital, Mateo #8B4513 earth + #D2691E chocolate. Colors beginning to blend, teal appearing in both. Warm lighting 3800K.",
+          "lighting": "Unified warm with slight cool rim on Luna (digital past still present)",
+          "background": "Bodega or rooftop - warm browns #CD853F, afternoon sun",
+          "avoid": "Don't let cool blue dominate Luna anymore. Teal yes, steel blue no."
+        },
+        {
+          "characters": ["Luna", "Vega"],
+          "act": 2,
+          "color_direction": "Luna #F08080 vibrant coral, Vega #708090 slate + #2F4F4F dark slate. Maximum temperature contrast. NO blending of colors.",
+          "lighting": "Split: Luna warm 3800K, Vega cool 6500K. Visible split in frame.",
+          "background": "Ministry grays or neutral battleground",
+          "avoid": "Do NOT warm Vega's palette (except tiny hint final frame Act 3). Do NOT cool Luna's palette."
+        },
+        {
+          "characters": ["Ensemble family dinner"],
+          "act": 1,
+          "color_direction": "Unified warm family: #F5DEB3 (Abuela), #8B4513 (table/food), #C68E6F (family skin tones), warm browns. EXCEPT Luna: #4682B4 cool digital glow on face - uncomfortable contrast.",
+          "lighting": "Warm 3400K overhead, 6500K laptop screen on Luna's face only",
+          "background": "Warm domestic kitchen #D2B48C walls, #8B7355 wood",
+          "avoid": "Don't make Luna's cool too subtle - contrast must be visible and uncomfortable"
+        }
+      ]
+    },
+
+    "consistency_enforcement": {
+      "character_proximity_rules": {
+        "rule_1": "When Luna and Mateo physically close (< 2 feet in frame), their colors begin blending in background/lighting. Teal appears.",
+        "rule_2": "When Luna and Vega in frame, maintain color separation. No blending until final Act 3 frame (slight teal in Vega).",
+        "rule_3": "Abuela's colors never blend with environment - she radiates own warmth regardless of surroundings.",
+        "rule_4": "Felix's colors always harmonize with whoever he's near - he's chromatic mediator."
+      },
+      
+      "color_bleeding_guidelines": {
+        "warm_to_cool_spaces": "When warm character enters cool space (Luna in Ministry), their warmth creates visible warm glow around them. Cool space cannot fully suppress their color.",
+        "cool_to_warm_spaces": "When cool character enters warm space (Vega rare family interaction), their cool creates visible temperature drop. Warm space dulls slightly in their immediate area.",
+        "projection_art_special": "Mateo's golden projection light (#FFD700) overwrites ANY environmental color. Transforms cool Ministry slate to warm gold - visual conquest."
+      },
+      
+      "environmental_influence": {
+        "act_1_digital_isolation": "Digital screen glow (#4682B4) should cast cool light on Luna's face even in warm environments. Represents digital world's influence.",
+        "act_2_transition": "Screens warm from blue to teal. Change visible and intentional - represents Luna's transformation.",
+        "act_3_integration": "Screens now warm teal (#20B2AA), blend with environment. Digital no longer invasive but integrated."
+      }
+    }
+  },
+
+  "emotional_color_map": {
+    "joy": {
+      "hex": "#FFD700",
+      "description": "Golden warmth, shared light, community celebration",
+      "character_expressions": {
+        "luna": "Coral brightens to peachy (#FFCBA4), gold accents appear",
+        "mateo": "Earth tones brighten, gold highlights prominent",
+        "abuela": "Wheat brightens to cream, warm glow",
+        "vega": "N/A - she doesn't experience joy"
+      }
+    },
+    
+    "tension": {
+      "hex": "#800000",
+      "description": "Dark red, stakes, danger, pressure",
+      "character_expressions": {
+        "luna": "Coral reddens, loses pink undertones",
+        "mateo": "Earth tones darken, red paint accents appear",
+        "vega": "Dark red bleeds into slate - losing control",
+        "general": "Shadows deepen, saturation increases (intensity)"
+      }
+    },
+    
+    "sadness": {
+      "hex": "#4682B4",
+      "description": "Cool blue, isolation, depression, digital cold",
+      "character_expressions": {
+        "luna": "Desaturation, blues dominate warm tones, screen glow harsh",
+        "mateo": "Earth tones gray, gold disappears, dusty",
+        "abuela": "Slight desaturation but warmth remains (enduring)",
+        "general": "Value darkens, cool temperatures dominate, saturation drops"
+      }
+    },
+    
+    "hope": {
+      "hex": "#20B2AA",
+      "description": "Teal bridge, integration, synthesis, possibility",
+      "character_expressions": {
+        "luna": "Teal appears in palette, warming of digital blues",
+        "mateo": "Teal accents added to earth tones",
+        "general": "Bridge color emergence, warm-cool integration visible"
+      }
+    },
+    
+    "anger": {
+      "hex": "#FF6347",
+      "description": "Tomato red, passion, intensity, fire",
+      "character_expressions": {
+        "luna": "Coral intensifies to hot coral-red",
+        "mateo": "Red spray paint prominently featured",
+        "vega": "Dark red (#800000) prominent - controlled anger",
+        "general": "Saturation maximum, warm temperatures aggressive"
+      }
+    },
+    
+    "love": {
+      "hex": "#F08080",
+      "description": "Coral warmth, connection, vulnerability, softness",
+      "character_expressions": {
+        "luna": "Full coral saturation, pink undertones",
+        "mateo": "Warm earth tones + gold, softened",
+        "general": "Warm palette unified, soft lighting, analogous harmony"
+      }
+    },
+    
+    "fear": {
+      "hex": "#2F4F4F",
+      "description": "Dark slate, oppression, shadows, threat",
+      "character_expressions": {
+        "luna": "Desaturation, cool shadows encroaching warm tones",
+        "mateo": "Earth tones gray, colors drain",
+        "vega": "Dark slate dominates her palette",
+        "general": "Value drops, shadows lengthen, cool invades warm"
+      }
+    },
+    
+    "determination": {
+      "hex": "#F08080 + #FFD700",
+      "description": "Vibrant coral + gold = fierce hope",
+      "character_expressions": {
+        "luna": "Maximum coral saturation, gold accents appear",
+        "mateo": "Earth + gold fully present",
+        "general": "High saturation, warm dominance, lighting bright"
+      }
+    }
+  },
+
+  "technical_notes": {
+    "color_space": "sRGB for digital production, convert to P3 if needed for wide-gamut displays",
+    "calibration": "All hex codes assume D65 white point, 2.2 gamma",
+    "accessibility": "Ensure minimum 4.5:1 contrast ratio between text and backgrounds. Luna's coral (#F08080) on white = 3.1:1 (FAIL) - use darker backgrounds or darkened text.",
+    "print_considerations": "If printed materials needed, convert to CMYK carefully - coral may shift pink, teal may shift green. Test prints essential.",
+    "animation_color_holds": "For consistent color across frames, use provided hex codes exactly. Slight variations acceptable for lighting, but hue must remain constant.",
+    "ghibli_watercolor_texture": "Add subtle paper grain (10-15% opacity) and slight color variation (±5% in saturation/brightness) for authentic watercolor feel. Avoid pure flat digital colors."
+  },
+
+  "cross_reference_notes": {
+    "references_from_plot_json": "Character arcs, act breaks, thematic elements drive color evolution",
+    "references_from_character_jsons": "Hex codes, personality traits, symbolic accessories",
+    "references_episode_scripts": "Specific scenes requiring custom color treatment",
+    "feeds_into_animation": "Animators use this for scene color keys, background painting, character rendering",
+    "feeds_into_ai_generation": "Image generators use color specs, lighting temperatures, palette restrictions",
+    "feeds_into_music_json": "Visual mood informs musical temperature (warm colors = warm musical tones)"
+  }
+}
