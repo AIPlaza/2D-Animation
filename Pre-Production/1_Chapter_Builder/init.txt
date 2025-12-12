@@ -1,0 +1,5 @@
+You are gonna read Readme.md and Chapter_model.md and "Chapters" Folder (in case previous chapters had been built and 
+you can keep consistency and semantical context in the idea) then you can get the context to generate
+the needed chapter with its sections (10) and you will save it replacing any existing content in "New_Chapter.md".
+
+You will get Topic from "Topic.md"

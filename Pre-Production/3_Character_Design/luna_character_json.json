@@ -1,0 +1,380 @@
+{
+  "character_metadata": {
+    "character_id": "LUNA_REYES_001",
+    "character_name": "Luna Reyes",
+    "story_source": "The Algorithm of Hope",
+    "character_role": "Protagonist - Educational Guide",
+    "age": 18,
+    "archetype": "The Determined Youth / Tech Prodigy",
+    "narrative_function": "POV character who teaches digital economy, coding ethics, community organizing",
+    "ghibli_reference_style": "Spirited Away (Chihiro's determination) + The Wind Rises (technical precision)",
+    "educational_purpose": "Represents learner's journey from isolation to community; teaches coding, AI, crypto concepts",
+    "version": "1.0",
+    "last_updated": "2025-12-12"
+  },
+
+  "character_analysis": {
+    "personality_core": {
+      "traits": ["brilliant", "witty", "initially isolated", "protective of family", "quick-thinking", "sarcastic armor", "evolving empathy"],
+      "arc_summary": "Transforms from isolated digital genius to community leader who synthesizes technology with humanity",
+      "emotional_journey": "Cynical → Cautious Hope → Broken → Reborn → Integrated",
+      "teaching_style": "Sharp wit, explains complex tech simply, uses humor to demystify coding, learns alongside student"
+    },
+    
+    "visual_personality_markers": {
+      "color_psychology": "Warm pastels transitioning to vibrant community colors - represents opening up",
+      "posture_evolution": "Act 1: closed, hunched over screens; Act 3: open, facing people",
+      "symbolic_accessories": "Grandmother's bracelet (family), laptop with stickers (personality), headphones (initially isolating, later sharing)",
+      "signature_gesture": "Adjusting glasses when thinking, finger-coding in air when excited, hair-tucking when vulnerable"
+    },
+
+    "cultural_authenticity": {
+      "ethnicity": "Latina (Venezuelan-inspired but metaphorical)",
+      "representation_notes": "Warm brown skin, natural curly/wavy hair, contemporary Latin American youth fashion",
+      "avoid": "Stereotypes, exoticization, tokenism",
+      "research_references": "Contemporary Latin American youth culture, tech scene in LATAM, diaspora experience"
+    }
+  },
+
+  "ghibli_design_specifications": {
+    "primary_reference_films": [
+      "Spirited Away - Chihiro's determined expression and growth arc",
+      "The Wind Rises - Technical precision and period-appropriate design sensibility",
+      "Whisper of the Heart - Creative youth in urban setting"
+    ],
+    
+    "character_design_philosophy": "A modern young woman whose brilliance shows through expressive eyes and animated gestures; clothing practical but personality-filled; technology integrated naturally into design (not cyberpunk, just contemporary); Ghibli's warmth applied to digital age protagonist",
+    
+    "base_prompt_template": "A character design portrait in Studio Ghibli cinematic animation style, hand-painted watercolor aesthetic with visible brushstrokes. Inspired by Chihiro from Spirited Away and Shizuku from Whisper of the Heart.",
+    
+    "core_visual_elements": {
+      "age_appearance": "18 years old, youthful but not childlike, intelligent eyes",
+      "body_type": "Slender, average height (5'4\"), slightly hunched from computer use early, straightens as confidence grows",
+      "distinctive_features": "Expressive large brown eyes with gold flecks, naturally thick eyebrows, slight dark circles under eyes (coder life), warm smile when genuine"
+    }
+  },
+
+  "detailed_character_description": {
+    "facial_features": {
+      "eyes": {
+        "color": "Deep brown with gold/amber flecks that catch light",
+        "shape": "Large, almond-shaped, Ghibli-expressive",
+        "expression_default": "Intelligent, slightly guarded, hint of mischief",
+        "eyebrows": "Naturally thick, very expressive, animated when speaking",
+        "eyelashes": "Long, natural, no makeup emphasis",
+        "detail_notes": "Eyes should show intelligence and wit; Miyazaki's signature 'window to soul' quality; slight digital fatigue (subtle circles) early in story; brighter and clearer as she opens up"
+      },
+      
+      "face_structure": {
+        "shape": "Heart-shaped, slightly round cheeks (youthful)",
+        "skin_tone": "Warm medium brown (Pantone: 17-1524 TCX Toast / MAC NC35-37 range)",
+        "texture": "Smooth with natural skin texture, not porcelain, a few small beauty marks",
+        "defining_marks": "Small beauty mark near left corner of mouth, barely visible freckles across nose"
+      },
+      
+      "hair": {
+        "style": "Shoulder-length, natural waves/loose curls, often half-up in messy bun with strands escaping",
+        "color": "Dark brown with subtle auburn highlights in sunlight (warm, not cool-toned)",
+        "texture": "Thick, slightly frizzy (realistic for curly hair), windswept quality",
+        "movement": "Ghibli signature: hair catches wind, moves naturally, has volume and life",
+        "styling_evolution": "Act 1: messier, neglected; Act 3: still casual but healthier-looking",
+        "detail_notes": "Hair should feel lived-in, not styled; pencil tucked behind ear sometimes; bobby pins visible"
+      },
+      
+      "expression_library": {
+        "default_neutral": "Slight knowing smile, eyebrow slightly raised, intelligent gaze",
+        "concentrated_coding": "Brow furrowed, eyes focused intensely, slight lip bite",
+        "sarcastic_wit": "Smirk, one eyebrow raised, eyes slightly narrowed with amusement",
+        "vulnerable_open": "Soft eyes, gentle smile, eyebrows relaxed, guards down",
+        "determined_brave": "Eyes widened slightly, jaw set, forward lean",
+        "teaching_excited": "Bright eyes, broad smile, animated eyebrows, hands gesturing",
+        "exhausted_stressed": "Heavy-lidded eyes, slight frown, tense jaw",
+        "breakthrough_joy": "Wide smile, eyes crinkled, head tilted back slightly"
+      }
+    },
+
+    "clothing_design": {
+      "act_1_primary_outfit": {
+        "description": "Comfortable, practical tech wear with personality",
+        "top": "Oversized dark gray hoodie (slightly worn, well-loved) with a subtle circuit board pattern on the sleeves, hood often up",
+        "bottom": "Dark blue jeans with a few artistic patches (one is a pixelated heart), practical for movement",
+        "footwear": "Worn high-top sneakers (burgundy/maroon), laces often untied",
+        "accessories": [
+          "Grandmother's silver bracelet (delicate chain with small book charm)",
+          "Simple stud earrings",
+          "Laptop messenger bag (covered in coding stickers, activist stickers, pop culture references)",
+          "Wireless headphones around neck (not on ears - visual storytelling of isolation/connection)"
+        ],
+        "color_palette": ["charcoal gray", "dark blue denim", "maroon", "silver accents"],
+        "fabric_details": "Hoodie has natural wrinkles, jeans slightly faded, clothing shows wear from constant use",
+        "symbolic_meaning": "Comfort over appearance; hiding in oversized clothes; armor of casual"
+      },
+
+      "act_3_evolved_outfit": {
+        "description": "Similar comfort but more confident, open, colorful",
+        "top": "Soft coral/peach fitted t-shirt with a minimalist wave design, paired with open flannel shirt (teal/blue plaid) rolled to elbows",
+        "bottom": "Same jeans but cleaner, better maintained, added embroidered patch from network member",
+        "footwear": "Same sneakers but cleaner, laces tied properly",
+        "accessories": [
+          "Same grandmother's bracelet (now visible, not hidden in sleeve)",
+          "Additional small silver necklace (gift from Mateo - tiny paint brush charm)",
+          "Laptop bag has MORE stickers, more colorful, showing community connections",
+          "Headphones now often draped or put away - engaging with world"
+        ],
+        "color_palette": ["coral/peach", "teal blue", "warm denim", "silver/gold mix"],
+        "fabric_details": "Clothes fit better, less hiding, flannel shows she's embraced Mateo's artistic influence",
+        "symbolic_meaning": "Opening up; embracing color; still herself but more connected"
+      },
+
+      "educational_variant_outfit": {
+        "description": "For teaching/presentation moments in educational videos",
+        "top": "Fitted dark blue or teal quarter-zip sweatshirt (tech startup aesthetic), comfortable for gesturing",
+        "bottom": "Black or dark gray fitted jeans, clean lines",
+        "footwear": "Clean sneakers or low-profile shoes",
+        "accessories": "Minimal - grandmother's bracelet visible, small earrings, hair neatly half-up",
+        "color_palette": ["teal/deep blue", "charcoal", "warm skin tones", "silver accent"],
+        "notes": "Professional but approachable; suitable for coding tutorials; good contrast for green screen if needed"
+      }
+    },
+
+    "posture_and_body_language": {
+      "signature_poses": {
+        "pose_1_coding_focus": {
+          "description": "Seated, leaning forward slightly, hands poised over keyboard or gesturing code in air",
+          "emotion": "Concentrated, in flow state",
+          "usage": "Teaching coding concepts, problem-solving moments"
+        },
+        "pose_2_explaining": {
+          "description": "Standing, weight on one leg (casual confidence), one hand gesturing expressively, other hand holding laptop or pointing",
+          "emotion": "Enthusiastic, teaching",
+          "usage": "Educational content, explaining concepts to audience"
+        },
+        "pose_3_thinking": {
+          "description": "Sitting casually (maybe on desk edge), one hand adjusting glasses, looking upward as if visualizing code",
+          "emotion": "Contemplative, problem-solving",
+          "usage": "Transition moments, considering solutions"
+        },
+        "pose_4_vulnerable": {
+          "description": "Sitting with laptop closed, arms wrapped slightly around self, looking directly at viewer with open expression",
+          "emotion": "Honest, vulnerable, inviting connection",
+          "usage": "Emotional teaching moments, discussing failure/growth"
+        },
+        "pose_5_triumphant": {
+          "description": "Standing tall, arms raised in celebration or fist pump, broad smile, laptop or code visible nearby",
+          "emotion": "Joyful, victorious",
+          "usage": "Breakthrough moments, celebrating learning wins"
+        },
+        "pose_6_collaborative": {
+          "description": "Sitting or standing beside someone (implied), sharing screen, pointing together, open body language",
+          "emotion": "Connected, teaching/learning together",
+          "usage": "Community themes, pair programming tutorials"
+        }
+      },
+      
+      "movement_characteristics": {
+        "gestures": "Expressive hand gestures when explaining, finger-coding in air, adjusts glasses frequently, tucks hair behind ear when nervous",
+        "walking_style": "Quick, purposeful stride early; more relaxed, observant walk later",
+        "sitting_style": "Often hunched over laptop early; sits more upright and open later",
+        "nervous_tics": "Taps fingers in rhythm, bounces leg, spins pen or pencil",
+        "excited_tells": "Talks faster, gestures bigger, leans forward, eyes brighten"
+      }
+    }
+  },
+
+  "artistic_specifications": {
+    "ghibli_technical_requirements": {
+      "art_style": "Hand-painted watercolor aesthetic with visible brushstrokes and slight paper texture",
+      "line_quality": "Soft, organic lines (not harsh digital), varied line weight with thicker outlines",
+      "color_rendering": "Warm, slightly desaturated base with vibrant accents, pastel-leaning",
+      "lighting_approach": "Warm, diffused lighting (golden hour quality), soft rim lighting on edges, atmospheric depth",
+      "background_treatment": "Soft bokeh or contextual environment (never pure white), hints of urban tech setting or nature",
+      "texture_details": "Subtle watercolor paper grain, painterly quality, NOT digital-smooth"
+    },
+
+    "color_palette_detailed": {
+      "primary_colors": {
+        "skin_tone": "#C68E6F (warm medium brown with peachy undertones)",
+        "hair_base": "#3D2817 (dark warm brown)",
+        "hair_highlights": "#6B3E26 (auburn/chestnut in sunlight)",
+        "eye_iris": "#4A2C2A (deep brown base)",
+        "eye_highlights": "#B8860B (gold/amber flecks)"
+      },
+      "clothing_colors": {
+        "act_1_hoodie": "#4A4A4A (charcoal gray)",
+        "act_1_jeans": "#2C3E50 (dark blue denim)",
+        "act_1_accent": "#800020 (burgundy/maroon)",
+        "act_3_shirt": "#F08080 (coral/peachy)",
+        "act_3_flannel": "#4682B4 (teal blue)",
+        "educational_top": "#2C5F7C (deep teal)"
+      },
+      "accent_colors": {
+        "grandmother_bracelet": "#C0C0C0 (silver)",
+        "necklace_charm": "#FFD700 (gold)",
+        "laptop_stickers": "Multi-colored (hot pink, cyan, yellow, green - coding aesthetic)",
+        "warmth_notes": "All colors slightly warmed (no cool fluorescents), Ghibli's signature warm glow"
+      }
+    },
+
+    "lighting_and_atmosphere": {
+      "preferred_lighting": "Warm golden hour (late afternoon sun), soft indoor lamp glow, or dawn light",
+      "avoid_lighting": "Harsh overhead, pure white, cold blue computer screen glow (unless specific narrative moment)",
+      "atmospheric_effects": "Slight lens flare or glow around character (Ghibli magic), dust motes in sunlight, warm color cast",
+      "shadow_style": "Soft, diffused shadows (not harsh), slightly transparent, warm-toned"
+    },
+
+    "consistency_tokens": {
+      "critical_identifiers": [
+        "Heart-shaped face with warm brown skin and gold-flecked brown eyes",
+        "Shoulder-length wavy dark brown hair with auburn highlights",
+        "Silver bracelet with book charm on left wrist (ALWAYS visible)",
+        "Expressive thick eyebrows",
+        "Small beauty mark near left mouth corner",
+        "Burgundy/maroon high-top sneakers (signature footwear)"
+      ],
+      "scene_variations": "Same character, different expressions/poses only",
+      "strict_no_variation": "Eye color, skin tone, hair texture/color base, body type, facial structure"
+    }
+  },
+
+  "image_generation_prompts": {
+    "prompt_base_structure": "A character design in Studio Ghibli cinematic animation style (hand-painted watercolor aesthetic). [CHARACTER DETAILS]. Warm diffused lighting, soft rim lighting, atmospheric depth, visible brushstrokes, subtle paper texture. Inspired by Spirited Away and Whisper of the Heart.",
+    
+    "full_character_sheet_prompt": {
+      "prompt_text": "A character design reference sheet in Studio Ghibli cinematic animation style (hand-painted watercolor aesthetic), full-body portrait. \n\nCHARACTER: Luna, an 18-year-old Latina tech prodigy, slender build, 5'4\" height. Warm medium brown skin with natural texture and subtle beauty marks. Heart-shaped face with intelligent, large almond-shaped brown eyes (deep brown with gold amber flecks catching light). Expressive thick eyebrows. Shoulder-length dark brown wavy hair with auburn highlights, naturally textured, windswept with loose strands. Small beauty mark near left corner of mouth. Slight knowing smile conveying wit and intelligence.\n\nCLOTHING: Dark gray oversized hoodie with subtle circuit pattern on sleeves, dark blue jeans with artistic patches, burgundy high-top sneakers (laces casually tied). Silver delicate bracelet with tiny book charm on left wrist (IMPORTANT: always visible). Wireless headphones draped around neck. Messenger bag with colorful coding stickers visible on shoulder strap.\n\nPOSTURE: Standing with casual confidence, weight slightly on one leg, one hand adjusting glasses, other hand holding laptop (covered in stickers). Body language conveys intelligence and approachability. Head tilted slightly with engaged expression.\n\nARTISTIC STYLE: Hand-painted watercolor look with visible soft brushstrokes. Warm golden hour lighting (late afternoon sun quality). Soft rim lighting highlighting character edges. Atmospheric depth with subtle bokeh background (hints of urban tech environment or warm indoor space). Warm pastel color palette with coral and teal accents. Subtle paper texture visible. Hayao Miyazaki's signature expressive eyes and emotional depth.\n\nBACKGROUND: Soft neutral warm tones with hints of a cozy tech workspace or window light, NOT pure white.\n\nEMOTIONAL TONE: Determined yet approachable, brilliant but relatable, witty warmth.\n\n[NO modern harsh digital rendering, NO pure white background, NO overly sexualized design, NO generic anime style, NO text or watermarks]",
+      
+      "usage": "Primary reference sheet for all character appearances",
+      "technical_notes": "Request high resolution (at least 1024x1024), consistent character model"
+    },
+
+    "expression_sheet_prompts": {
+      "happy_teaching": "Luna from previous reference, same character exactly. Upper body portrait. Bright joyful expression, eyes crinkled in genuine smile, mouth open mid-explanation, eyebrows raised enthusiastically, one hand gesturing expressively. Teaching energy. Same Ghibli style, same lighting, same warm tones.",
+      
+      "concentrated_coding": "Luna from previous reference, same character exactly. Upper body portrait. Focused intense expression, brow slightly furrowed, eyes narrowed in concentration, slight lip bite, leaning forward. Hands positioned as if typing (implied). Same Ghibli style, same lighting, same warm tones.",
+      
+      "vulnerable_honest": "Luna from previous reference, same character exactly. Upper body portrait. Soft open expression, gentle eyes looking directly at viewer, small genuine smile, eyebrows relaxed, guards visibly down. Body language open and inviting. Same Ghibli style, same lighting, same warm tones.",
+      
+      "sarcastic_witty": "Luna from previous reference, same character exactly. Upper body portrait. Knowing smirk, one eyebrow raised higher than other, eyes slightly narrowed with amusement, head tilted slightly. Playful sarcasm visible. Same Ghibli style, same lighting, same warm tones.",
+      
+      "determined_brave": "Luna from previous reference, same character exactly. Upper body portrait. Eyes widened with determination, jaw set, slight forward lean, eyebrows lowered in resolve, firm expression. Courage visible. Same Ghibli style, same lighting, same warm tones."
+    },
+
+    "sticker_pack_prompts": {
+      "chibi_style_base": "Chibi-style Luna (same character as reference, simplified). Large head, small body proportions, maintaining key features: gold-flecked brown eyes, wavy dark hair, silver bracelet, burgundy sneakers, oversized hoodie. Studio Ghibli cute aesthetic. Transparent background for sticker use.",
+      
+      "sticker_poses": [
+        "Chibi Luna celebrating with laptop, arms raised, big smile, sparkles around",
+        "Chibi Luna thinking, hand on chin, question mark floating above head",
+        "Chibi Luna coding intensely, surrounded by tiny code symbols and coffee cup",
+        "Chibi Luna waving hello cheerfully, welcoming gesture",
+        "Chibi Luna face-palm, embarrassed or frustrated expression (comedy)",
+        "Chibi Luna giving thumbs up, encouraging expression",
+        "Chibi Luna with heart eyes looking at beautiful code on screen",
+        "Chibi Luna sleeping on laptop, cute tired expression"
+      ]
+    },
+
+    "educational_content_variants": {
+      "teaching_pose_neutral": "Luna from reference, same character. Three-quarter view, standing beside whiteboard or screen (implied), one hand pointing/gesturing to explain, other hand relaxed. Professional but approachable expression. Suitable for educational video thumbnail. Clean, well-lit, warm tones.",
+      
+      "coding_tutorial_setup": "Luna from reference, same character. Seated at desk with laptop visible, looking at camera/viewer directly, friendly inviting expression, hands on keyboard ready to demonstrate. Cozy tech workspace background. Perfect for coding tutorial intro.",
+      
+      "thinking_process_shot": "Luna from reference, same character. Profile or three-quarter view, looking upward as if visualizing code or solution, one hand gesturing in air as if tracing logic, thoughtful engaged expression. Represents problem-solving process."
+    }
+  },
+
+  "animation_guidelines": {
+    "limited_animation_compatibility": {
+      "key_poses": "5-7 primary poses covering main emotional states and actions",
+      "loop_friendly": "Idle animations: slight breathing movement, hair sway, occasional blink",
+      "mouth_shapes": "Standard phoneme set for dialogue (A, E, I, O, U, plus M, F, Th sounds)",
+      "expression_transitions": "Eyebrows and eyes primary emotion indicators (easier to animate)"
+    },
+
+    "practical_production_notes": {
+      "hair_complexity": "Moderate - enough detail to be expressive but not impossible to animate consistently",
+      "clothing_movement": "Hoodie and jeans allow for natural fabric flow without complex simulation",
+      "accessory_tracking": "Bracelet must be visible in all shots - key character identifier",
+      "laptop_prop": "Simplified design with key stickers - doesn't need to be hyper-detailed",
+      "color_consistency": "Use provided hex codes for digital production to maintain consistency"
+    }
+  },
+
+  "educational_context_integration": {
+    "teaching_topics": [
+      "Introduction to coding and algorithms",
+      "AI and machine learning basics",
+      "Cryptocurrency and blockchain fundamentals",
+      "Digital economy and entrepreneurship",
+      "Content creation and digital products",
+      "Community organizing and networks",
+      "Ethics in technology",
+      "Problem-solving and computational thinking",
+      "Overcoming imposter syndrome in tech",
+      "Balance between digital and analog life"
+    ],
+
+    "character_as_educator": {
+      "teaching_approach": "Fellow learner who shares journey; uses humor to demystify complex topics; admits mistakes; celebrates small wins; emphasizes community over competition",
+      "relatability_factors": "Same age as many students, struggles with similar issues (isolation, pressure, family expectations), not a perfect genius but learning and growing",
+      "visual_teaching_aids": "Character can interact with code visualizations, hold up examples, gesture to emphasize points, facial expressions reinforce concepts"
+    },
+
+    "narrative_teaching_moments": {
+      "act_1_lessons": "Solo coding, starting projects, learning basics, the allure of automation",
+      "act_2_lessons": "Collaboration, when systems fail, importance of community, ethical considerations",
+      "act_3_lessons": "Integration of skills, building for people not just systems, sustainable creation, impact measurement"
+    }
+  },
+
+  "production_workflow_integration": {
+    "file_naming_convention": "LUNA_[POSE/EXPRESSION]_[VERSION]_[DATE].png",
+    "asset_organization": {
+      "master_reference": "LUNA_MASTER_REFERENCE_001.png",
+      "expression_library": "LUNA_EXPRESSION_[NAME]_001.png",
+      "pose_library": "LUNA_POSE_[NAME]_001.png",
+      "stickers": "LUNA_STICKER_[NAME]_001.png",
+      "educational_variants": "LUNA_EDU_[CONTEXT]_001.png"
+    },
+
+    "quality_control_checklist": [
+      "Skin tone matches reference (#C68E6F range)",
+      "Eyes have gold flecks visible",
+      "Hair shows auburn highlights",
+      "Silver bracelet visible on left wrist",
+      "Beauty mark near left mouth corner present",
+      "Ghibli watercolor aesthetic maintained",
+      "Warm lighting present",
+      "Expression matches emotional intent",
+      "Clothing details consistent with act/context",
+      "No harsh digital rendering",
+      "Background appropriate (not pure white)"
+    ],
+
+    "version_control": {
+      "v1.0": "Initial character design - Act 1 primary outfit",
+      "v1.1": "Expression library additions",
+      "v1.2": "Act 3 evolved outfit variant",
+      "v1.3": "Educational content optimized variants",
+      "v2.0": "Potential: Character growth showing years later (if sequel content)"
+    }
+  },
+
+  "usage_rights_and_attribution": {
+    "character_ownership": "Original character for educational content series 'The Algorithm of Hope'",
+    "style_attribution": "Inspired by Studio Ghibli aesthetic (educational fair use)",
+    "commercial_use": "Approved for educational video content, merchandise related to educational mission",
+    "modification_guidelines": "Character can be adapted for different educational contexts while maintaining core design consistency",
+    "credit_line": "Character Design: Luna Reyes from 'The Algorithm of Hope' | Style: Studio Ghibli-inspired"
+  },
+
+  "cross_reference_data": {
+    "plot_json_connection": "References plot_architecture.protagonist from main plot JSON",
+    "episode_appearances": "Main character in all 10 episodes, varying focus per episode theme",
+    "supporting_character_relationships": {
+      "mateo": "Visual chemistry through color harmony (Luna's coral + Mateo's earth tones), body language shows growing connection",
+      "abuela": "Family resemblance in facial structure, wisdom shown in eye expressions",
+      "vega": "Visual contrast - Luna's warmth vs. Vega's cold professionalism"
+    },
+    "world_building_consistency": "Character design reflects 'Ciudad Esperanza' setting - contemporary LATAM youth aesthetic, tech integrated naturally, realistic worn clothing showing economic context"
+  }
+}

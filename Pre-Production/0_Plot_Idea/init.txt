@@ -1,0 +1,2 @@
+Read .../plot.json understand the main story and initial characters
+so you can now proceed to

@@ -1,0 +1,12 @@
+You are gonna read 2D-Animation/Pre-Production/1_Chapter_Builder/New_Chapter.md (To get 
+the Episodes educational editorial line) and you will read the file
+2D-Animation/Pre-Production/0_Plot_Idea/plot.json (To get the context plot) 
+and based on the /2_Script_Builder/Readme.md
+you will generate the ten (10) Episodes Scripts into /2_Script_Builder/Episodes
+
+Once Episodes folder is completed and well structure with the ten episodes, you
+will proceed to read  2D-Animation/Pre-Production/3_Character_Design/Readme.md
+and with that prompt you will generate the character json sheet given the example
+in 2D-Animation/Pre-Production/3_Character_Design/x_character.json
+
+read 2D-Animation/Production/init.txt

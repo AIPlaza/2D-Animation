@@ -1,0 +1,883 @@
+{
+  "plot_architecture": {
+    "metadata": {
+      "template_version": "1.0",
+      "production_tier": "prestige_indie_crossover",
+      "genre_primary": "drama",
+      "genre_secondary": ["thriller", "coming-of-age", "tech"],
+      "target_runtime_minutes": 115,
+      "target_demographic": "PG-13",
+      "tonal_keywords": ["witty", "satirical", "heartfelt", "tense", "clever", "hopeful-despite-darkness"],
+      "production_notes": "Oscar Wilde meets Mark Twain - sharp social commentary wrapped in humor and heart. Think 'The Grand Budapest Hotel' meets 'The Social Network' in an oppressive regime",
+      "comparable_films": ["The Lives of Others", "The Grand Budapest Hotel", "The Social Network", "Argo (for tension)", "Lady Bird (for coming-of-age)"],
+      "visual_style": "Contrasts - gray oppressive exteriors vs. vibrant digital world in her screens"
+    },
+    
+    "logline": {
+      "protagonist_description": "a wickedly clever 18-year-old coder in a collapsing economy",
+      "inciting_conflict": "creates AI-powered money-making systems to save her family",
+      "antagonistic_force": "but her success attracts the attention of a regime official who wants to exploit her talents",
+      "stakes": "her freedom, her family's safety, and the underground network of people she's helping",
+      "unique_hook": "and must choose between staying invisible or using her platform to spark change",
+      "complete_logline": "A wickedly clever 18-year-old coder in a collapsing economy creates AI-powered money-making systems to save her family, but her success attracts the attention of a regime official who wants to exploit her talents, forcing her to choose between staying invisible or using her platform to spark change."
+    },
+    
+    "theme": {
+      "primary_theme": "True wealth is measured in human connection, not currency",
+      "thematic_question": "In a world where survival requires cleverness, when does self-preservation become self-imprisonment?",
+      "thematic_statements": [
+        "Technology can liberate or isolate depending on intent",
+        "Individual genius means nothing without community",
+        "The most revolutionary act is choosing to stay and fight rather than escape",
+        "Real currency is trust, not cryptocurrency"
+      ],
+      "symbol_motifs": [
+        "Broken/glitching screens - system failures both digital and governmental",
+        "Empty storefronts transformed by projection art - beauty despite scarcity",
+        "Her grandmother's recipe book - analog wisdom vs. digital knowledge",
+        "Pigeons carrying messages - old-world connection in surveillance state"
+      ],
+      "thematic_resolution": "She realizes that her algorithms' true value wasn't making money—it was creating a network of mutual aid that government couldn't control. The message matters more than the medium."
+    },
+    
+    "protagonist": {
+      "name": "LUNA REYES",
+      "age": 18,
+      "occupation": "Computer science university dropout / freelance coder / digital entrepreneur",
+      "external_goal": "Generate enough money through her automated systems to get her family out of the country",
+      "internal_need": "Learn that running away (digitally or physically) isn't the answer; building community is",
+      "fatal_flaw": "Uses intelligence as a shield; believes she's smarter than everyone and can solve everything alone; dismissive of 'analog' solutions and human messiness",
+      "unique_skill": "Prodigious coder who can build sophisticated AI systems; sees patterns in chaos; can gamify anything; sharp wit that disarms people",
+      "backstory_hook": "Child prodigy who won international coding competitions; dropped out of university when her father lost his professorship to brain drain; watched her family's savings evaporate overnight due to hyperinflation; taught herself crypto and AI to survive",
+      
+      "character_arc": {
+        "act_1_state": "Cynical, isolated, works alone, trusts only code, preparing to escape, mocks 'analog' solutions, keeps emotional distance even from family",
+        "midpoint_transformation": "Realizes her network is accidentally creating real community; people aren't just using her tools—they're organizing, meeting, helping each other",
+        "act_3_state": "Embraces community leadership, combines digital and human solutions, chooses to stay and build rather than escape, opens her heart",
+        "arc_type": "positive change arc - from isolated genius to community leader; from digital escapist to present revolutionary"
+      },
+      
+      "relationships": {
+        "ally_mentor": "ABUELA CARMEN - her grandmother, former philosophy professor, provides analog wisdom",
+        "love_interest": "MATEO - street artist and 'analog activist' who initially clashes with her digital-only approach",
+        "family": "Mother (ISABEL) - nurse working double shifts; Father (RICARDO) - former economics professor, now taxi driver, defeated by system",
+        "rival": "VALERIA - former friend from coding competitions, now working for the regime, represents the 'sell-out' path",
+        "comic_relief": "TÍO FELIX - uncle who runs bodega, provides physical safe space, terrible with technology but great with people"
+      },
+      
+      "voice_characteristics": "Quick wit, dry sarcasm, references pop culture and philosophy interchangeably, code-switches between technical jargon and street slang, uses humor as armor, increasingly vulnerable as story progresses",
+      
+      "signature_phrases": [
+        "I can automate that",
+        "Trust the algorithm",
+        "It's just ones and zeros" (early) → "It's never just ones and zeros" (late),
+        "I don't do feelings, I do functions"
+      ]
+    },
+    
+    "antagonist": {
+      "name": "COMANDANTE TERESA VEGA",
+      "age": 45,
+      "occupation": "Director of Digital Security for the Ministry of Technology and Progress",
+      "external_goal": "Recruit or neutralize Luna; harness her technology for regime control and personal enrichment",
+      "internal_motivation": "Believes order and control are the only answers to chaos; genuine conviction that she's saving the country from itself; sees Luna as both threat and opportunity",
+      "philosophy": "Chaos requires control. Individual freedom is a luxury collapsing societies can't afford. Someone must make the hard choices.",
+      "backstory_hook": "Was once an idealistic engineer who believed technology could save the country; watched reformers fail; made pragmatic choice to work within system; now trapped by choices she's made; sees younger self in Luna",
+      
+      "unique_strength": "Sophisticated understanding of technology; vast surveillance network; can be charming and persuasive; genuinely believes she's the hero of her story",
+      
+      "connection_to_protagonist": "Offered Luna's father his professorship back—if he convinces Luna to join the regime. Knows Luna's systems intimately because she's been monitoring them. Represents the 'pragmatic sellout' path Luna could take.",
+      
+      "antagonistic_arc": {
+        "introduction": "Appears reasonable, even sympathetic—offers Luna legitimate job with good pay",
+        "revelation": "Her 'reasonable' offer comes with strings—surveillance on citizens, control systems",
+        "escalation": "When Luna refuses, threatens family, friends, network",
+        "final_state": "Desperate to control Luna's growing influence, willing to destroy what she can't control"
+      },
+      
+      "henchmen_structure": {
+        "lieutenant": "CAPTAIN RAMOS - tech specialist, true believer in digital authoritarianism, no nuance",
+        "specialists": "Cyber surveillance team, social media manipulation unit",
+        "disposable_forces": "Secret police, digital forensics",
+        "wildcards": "VALERIA - Luna's former friend, now regime insider, conflicted"
+      },
+      
+      "complexity_notes": "NOT a cartoon villain. She makes good points about chaos and security. Luna must counter her philosophy with something better than naive idealism. Final confrontation is ideological as much as physical."
+    },
+    
+    "supporting_cast": {
+      "mentor_figure": {
+        "name": "ABUELA CARMEN (Grandmother)",
+        "age": 72,
+        "role": "Former philosophy professor, family matriarch",
+        "function": "Provides analog wisdom, historical context, emotional grounding; represents pre-digital values",
+        "arc": "Initially dismissive of Luna's 'computer games'; comes to understand technology's revolutionary potential; teaches Luna that algorithms need philosophy",
+        "signature_trait": "Quotes philosophers while cooking; still writes in journals; maintains illegal library",
+        "fate": "Briefly detained in Act 2B to pressure Luna; emerges unbowed, having organized fellow detainees",
+        "key_dialogue": "'Mija, you can't algorithm your way out of being human. Trust me, philosophers tried for millennia.'"
+      },
+      
+      "comic_relief": {
+        "name": "TÍO FELIX (Uncle)",
+        "age": 48,
+        "role": "Bodega owner, family clown, surprisingly shrewd",
+        "function": "Safe house for meetings, lightens tension, provides street-level intel, represents everyday resilience",
+        "arc": "Seems technologically hopeless; reveals he's been using Luna's systems brilliantly in analog ways",
+        "signature_trait": "Constant tech mishaps played for comedy; runs elaborate analog black market network; 'accidentally' always where he needs to be",
+        "running_gag": "Can't unlock his own phone but somehow coordinates entire neighborhood supply chain"
+      },
+      
+      "love_interest": {
+        "name": "MATEO SILVA",
+        "age": 19,
+        "role": "Street artist, 'analog activist', community organizer",
+        "function": "Romantic interest, ideological counterpoint, bridge to physical community",
+        "arc": "From digital skeptic to understanding tech's revolutionary potential; teaches Luna that movements need faces, not just code",
+        "signature_trait": "Creates projection art on buildings; quotes Oscar Wilde and Marx in street slang; passionate but thoughtful",
+        "chemistry_factor": "Opposites attract - she's all head, he's all heart; she codes alone, he organizes crowds; witty verbal sparring that evolves into genuine partnership",
+        "key_scene": "Teaches Luna spray painting while she teaches him coding—visual metaphor for synthesis",
+        "in_danger_when": "Arrested during peaceful protest Act 2B; Luna must risk exposure to get him out"
+      },
+      
+      "emotional_anchor": {
+        "name": "ISABEL REYES (Mother)",
+        "age": 44,
+        "role": "Nurse, family's emotional center",
+        "function": "Represents sacrifice, why Luna fights, moral compass",
+        "arc": "Initially wants Luna to 'keep her head down'; comes to support her daughter's choices; revealed to be helping Luna's network access medicine",
+        "in_danger_when": "Threatened with job loss and arrest in Act 3 if Luna doesn't comply",
+        "key_relationship": "Most important bond; Luna's need to protect her drives early choices; mother's belief in her enables final choice"
+      },
+      
+      "fallen_friend": {
+        "name": "VALERIA CONTRERAS",
+        "age": 18,
+        "role": "Luna's former coding competition partner, now regime tech specialist",
+        "function": "Represents path not taken; provides intel (conflicted); moral complexity",
+        "arc": "Starts as apparent betrayer; revealed to be feeding Luna information while appearing loyal to regime; must choose side in climax",
+        "signature_trait": "Speaks in corporate buzzwords; drinks expensive coffee in poverty; clearly miserable despite 'success'",
+        "key_moment": "Act 3 - chooses Luna over regime at personal cost, helps take down surveillance system"
+      },
+      
+      "father_figure": {
+        "name": "RICARDO REYES (Father)",
+        "age": 46,
+        "role": "Former economics professor, now taxi driver",
+        "function": "Represents intellectual defeat, cautionary tale, must find redemption",
+        "arc": "Broken by system, counsels compliance; Vega offers him his job back to pressure Luna; must choose family or safety; finds courage to refuse",
+        "signature_trait": "Still lectures about economics to taxi passengers; brilliant mind in 'wrong' job; teaching Luna online at night",
+        "key_moment": "Act 2B - refuses Vega's offer, reclaims dignity, supports Luna publicly"
+      }
+    },
+    
+    "world_building": {
+      "primary_location": {
+        "setting": "CIUDAD ESPERANZA (metaphorical nation of 'La Patria') - capital city of a once-prosperous South American nation",
+        "time_period": "Present day / near-future (ambiguous contemporary)",
+        "atmosphere": "Elegant colonial architecture crumbling; empty shelves contrasted with luxury vehicles; vibrant street life despite scarcity; digital connectivity amid physical decay",
+        "unique_elements": [
+          "Hyperinflation visible everywhere - prices change daily, multiple currencies",
+          "Sophisticated surveillance - facial recognition, social credit, internet monitoring",
+          "Thriving black markets - physical and digital",
+          "Brain drain - young people leaving in waves",
+          "Resilient culture - music, art, humor persist despite hardship",
+          "Parallel economies - official worthless currency vs. crypto vs. barter"
+        ],
+        "production_value": "Real locations in historic districts; contrast between decaying grandeur and vibrant street life; digital overlays showing Luna's view of the world (code, patterns, systems)"
+      },
+      
+      "key_locations": [
+        {
+          "name": "REYES FAMILY APARTMENT",
+          "description": "Cramped but loved; Luna's room filled with salvaged tech and monitors; grandmother's illegal book collection; family meals show food scarcity normalized",
+          "purpose": "Emotional anchor, contrast between intimate warmth and external chaos",
+          "action_potential": "Low - but raid scene Act 2B; hiding tech during inspection"
+        },
+        {
+          "name": "TÍO FELIX'S BODEGA",
+          "description": "Front: Nearly empty shelves, official cameras. Back room: Black market hub, Luna's network meets, analog organization center",
+          "purpose": "Safe space, community hub, comedy relief, bridge between digital and physical resistance",
+          "action_potential": "Medium - secret meetings, near-discoveries, hiding place"
+        },
+        {
+          "name": "UNIVERSITY COMPUTER LAB",
+          "description": "Luna's former haunt; still sneaks in using old credentials; outdated equipment but crucial internet access",
+          "purpose": "Development/coding scenes, nostalgic, where she meets Mateo (he's painting outside)",
+          "action_potential": "High - surveillance close call, cat-and-mouse with security"
+        },
+        {
+          "name": "ABANDONED BANK BUILDING",
+          "description": "Gorgeous Art Deco ruin; banks failed spectacularly; now squatters and artists; Mateo's crew base; ironic symbol of failed financial system",
+          "purpose": "Visual metaphor, romantic scenes, community organizing, projection art installations",
+          "action_potential": "High - raid scene, escape through building, final confrontation location"
+        },
+        {
+          "name": "MINISTRY OF TECHNOLOGY",
+          "description": "Gleaming modern building amid decay; high-tech surveillance center; Vega's domain; everything Luna could have if she sells out",
+          "purpose": "Antagonist's lair, temptation, shows regime's resources, final infiltration target",
+          "action_potential": "Extreme - Act 3 infiltration sequence"
+        },
+        {
+          "name": "ROOFTOP NETWORK",
+          "description": "Various rooftops connected by bridges Luna and Mateo create; above surveillance; where digital meets physical resistance",
+          "purpose": "Symbolic high ground, romantic spots, strategy sessions, escape routes",
+          "action_potential": "Medium-High - chase sequences, meetings, climactic speech"
+        }
+      ],
+      
+      "world_rules": {
+        "technology_level": "Contemporary but stratified - regime has advanced surveillance, citizens have makeshift networks",
+        "economic_reality": "Multi-tiered currency system; hyperinflation; everyone has side hustles; success is survival",
+        "surveillance_state": "Sophisticated but not omnipotent; can be outsmarted; facial recognition, social media monitoring, internet tracking",
+        "social_dynamics": "Dark humor as coping; strong family/community bonds; everyone in gray-zone of legality; distrust of authority",
+        "realism_vs_fantasy": "Grounded in realistic tech and economics with slightly heightened wit and cinematic surveillance",
+        "tone_consistency": "Wilde/Twain wit prevents preachiness; darkness leavened by humor; stakes real but hope persists"
+      },
+      
+      "cultural_texture": {
+        "language": "Spanglish, tech jargon, street slang, philosophical references, economic terms used ironically",
+        "food": "Creative cooking with scarcity; sharing meals as resistance; grandmother's recipes as cultural continuity",
+        "art": "Street murals, projection art, analog zines, digital art shared on encrypted networks",
+        "music": "Local genres mixed with global internet culture; soundtrack of resilience",
+        "humor_style": "Self-deprecating about crisis; clever wordplay; satire of government; Gallows humor done warmly"
+      }
+    },
+    
+    "structure_three_act": {
+      "act_1_setup": {
+        "duration_percentage": 25,
+        "target_pages": "1-29",
+        "objectives": [
+          "Establish Luna's isolated, digital-first worldview",
+          "Show economic collapse through daily life details",
+          "Introduce her automated money-making systems",
+          "Establish family stakes and love",
+          "Show her dismissive attitude toward 'analog' solutions",
+          "Inciting incident: Success attracts wrong attention",
+          "Refusal: She thinks she can stay invisible",
+          "Break: Realizes she's on Vega's radar—must engage"
+        ],
+        
+        "beats": {
+          "opening_image": {
+            "page": 1,
+            "description": "Luna's POV: Four monitors showing crypto trading bots, content generation AIs, price arbitrage algorithms, all making money while she sleeps. Pull back: she's in tiny bedroom, family apartment cramped, but her digital world is vast. Voice-over: 'In a country where money evaporates overnight, I built machines that make it appear.'",
+            "purpose": "Establish character, world, tone, central metaphor: digital abundance vs. physical scarcity",
+            "tone": "Witty voice-over, dark comedy, impressive competency, isolation",
+            "visual_contrast": "Cramped physical space vs. infinite digital space; her glowing screens vs. gray morning light",
+            "thematic_seed": "She's escaping into code, not engaging with reality"
+          },
+          
+          "establish_normal_world": {
+            "page": "2-12",
+            "description": "Montage of daily survival: Mother's hospital shift, father driving taxi with PhD on display ironically, grandmother maintaining illegal library, uncle's creative bartering at bodega. Luna's routine: monitor systems, avoid human contact, secretly funnel money to family. Witty narration about hyperinflation, surveillance, absurdity normalized. She's planning escape—gathering bitcoin for family to leave. Meet Mateo briefly—he's spray-painting outside university; she dismisses him as 'analog,' he calls her work 'invisible.'",
+            "purpose": "World-building through character routines; establish relationships; Luna's flaw (isolation); show love underneath cynicism",
+            "key_dialogue": [
+              "ABUELA: 'Mija, you can't live in that screen forever.' LUNA: 'Watch me.'",
+              "MATEO: 'Your code doesn't exist if nobody sees it.' LUNA: 'That's the point.'"
+            ],
+            "visual_style": "Handheld, street-level, vibrant despite decay; CONTRAST: Luna's POV shows data overlays, patterns, systems—she sees the world as code",
+            "setup_payoffs": "Plant grandmother's recipe book, father's old lectures online, Valeria working at ministry, uncle's analog network, mother treating network members"
+          },
+          
+          "inciting_incident": {
+            "page": 13,
+            "description": "Luna's crypto bot makes unexpected breakthrough—goes viral on dark web. Suddenly she's getting thousands of requests. Her network accidentally becomes mutual aid platform: people using her tools don't just make money, they're sharing resources, organizing, helping each other. Uncle shows her: her users started meeting IN PERSON at his bodega. She's horrified and intrigued. Mother reveals: half her patients are from Luna's network, getting medicine via Luna's system. Luna: 'It was supposed to be just math.'",
+            "purpose": "External success creates internal crisis; her isolation method accidentally created community; the digital bled into analog",
+            "reaction": "Luna wants to shut it down (too visible), but family needs it, people depend on it",
+            "twist": "What she thought was escape tool became resistance tool"
+          },
+          
+          "debate_refusal": {
+            "page": "15-23",
+            "description": "Luna tries to make network more secure, anonymous, invisible. But people keep connecting, meeting, organizing. Mateo shows up at bodega meeting—he's been using her platform to coordinate street art actions. They clash: she wants invisibility, he wants visibility. She argues pure digital is safer; he argues movements need faces. Meanwhile, VALERIA (former friend, now regime) calls with warning: Comandante Vega noticed the network spike. Offers Luna easy out: take government job, shut down network, family gets benefits. Luna considers it—SAFER. Father pressures her to accept (he's scared). Grandmother, surprisingly, says: 'Running is also a choice, but you can't code your way out of being human.'",
+            "purpose": "Show internal debate; present 'easy' path (escape or sell-out); pressure from all sides; hint at real choice ahead",
+            "turning_point": "Vega visits family apartment (power play). Charming but threatening. Shows Luna she knows everything. 'Work with me or I shut you down—and I mean all the way down.' Leaves card.",
+            "stakes_raised": "Not just about making money anymore—people depending on her; family in danger; her skills weaponized by either side or neither"
+          },
+          
+          "break_into_act_2": {
+            "page": "27-29",
+            "description": "Luna decides to meet Vega—plans to outwit her, stay independent, keep network running quietly. Mateo confronts her: 'You can't compromise with them.' Luna: 'Watch me. I'm smarter than all of them.' She walks into Ministry building. Voiceover: 'I had a plan. I always have a plan. I can code my way out of anything.' (We sense her hubris). Visual: Tiny figure entering massive building. HARD CUT to surveillance footage of her—Vega watching, smiling. We realize: Luna thinks she's playing chess, but she doesn't know the rules of the game she's actually in.",
+            "purpose": "Point of no return; commitment to engage; dramatic irony (audience sees she's outmatched); thesis statement: can't algorithm your way out of human conflict",
+            "visual": "Luna's confident walk contrasted with surveillance view showing how tracked she is",
+            "end_on": "Vega's office doors close behind Luna. We stay outside. Ominous."
+          }
+        }
+      },
+      
+      "act_2_confrontation": {
+        "duration_percentage": 50,
+        "target_pages": "30-87",
+        "objectives": [
+          "Luna tries to play both sides and stay in control",
+          "Growing relationship with Mateo shows alternate worldview",
+          "Network grows despite/because of attempts to control it",
+          "Vega reveals increasingly predatory nature",
+          "Luna's digital-only approach repeatedly fails",
+          "Build to midpoint revelation about what she's really building",
+          "Everything falls apart when she trusts systems over people"
+        ],
+        
+        "act_2a_rising_action": {
+          "page_range": "30-58",
+          
+          "beats": {
+            "fun_and_games_negotiation": {
+              "page": "30-42",
+              "description": "Luna navigates dangerous dance with Vega. Takes 'consultant' job while secretly maintaining network. Builds in backdoors and safeguards. Codes sabotage into everything she gives regime. Meanwhile, teaches Mateo basic coding—he teaches her about community organizing. They develop grudging respect, attraction. Montage: Luna living double life—regime work by day, network by night. Network grows: people organizing grocery collectives, medicine shares, skill exchanges. Uncle's bodega becomes unofficial hub. Grandmother teaching philosophy to network members. Father starts teaching economics online via Luna's platform. Comic sequences: Luna terrible at analog organizing; Mateo terrible at coding. But together they're effective. Romance builds through witty verbal sparring.",
+              "purpose": "Deliver on premise—clever coder outwitting surveillance state; develop romance; show network's real-world impact; Luna seeming competent",
+              "action_sequence": "Close call: Luna nearly caught accessing regime system illegally; smooth-talk escape using charm and technical jargon",
+              "character_development": "Luna starts to see value in face-to-face organizing but still believes code is superior",
+              "witty_dialogue": [
+                "MATEO: 'You can't spray-paint a revolution.' LUNA: 'You can't spray-paint anything. I've seen your work.'",
+                "VEGA: 'You're very talented, Luna.' LUNA: 'I know. That's not the compliment you think it is.'"
+              ]
+            },
+            
+            "first_pinch_point": {
+              "page": 45,
+              "description": "Vega demonstrates her power: arrests someone from Luna's network on fabricated charges. Shows Luna surveillance footage of her own family, friends, network members. Message clear: I'm always watching. Forces Luna to implement tracking feature in 'her' platform (but for regime's version, which Luna thinks is separate from her secret network). Luna complies but codes in subtle sabotage. Believes she's still in control.",
+              "purpose": "Remind audience of antagonist's power; raise stakes; show Luna still thinks she can out-clever the problem",
+              "reaction": "Luna doubles down on technical solutions; starts building 'unhackable' system; pulling away from people again because 'they're vulnerable'",
+              "mateo_conflict": "Argues with Mateo—he says trust matters more than encryption; she disagrees"
+            },
+            
+            "midpoint": {
+              "page": 58,
+              "description": "MAJOR REVELATION: Luna discovers her network isn't just making money or sharing resources—people are organizing politically. Not violently, but coordinating peaceful protests, strikes, mutual aid that's undermining regime control more than any militant group. And it's WORKING. Small victories: corrupt official removed, food price controls defied, information breaking through censorship. Mateo takes her to rooftop: shows her crowd gathering below—organized via her platform. They're chanting messages that came from her network's forums. She's terrified and awed. 'I just wanted to save my family.' Mateo: 'You did. And everyone else's family too.' First real kiss—connection, vulnerability. But TWIST: Valeria calls with warning—Vega knows about the organizing. She's been letting it grow to identify all members. The trap is bigger than Luna thought. Vega doesn't want to stop her—she wants to control her network, weaponize it for regime. Luna realizes: Vega is learning from HER systems to build better surveillance. Every backdoor Luna built, Vega's team is studying. Luna: 'Oh god, I taught them how to do it better.'",
+              "purpose": "False victory (network success) becomes revelation of bigger danger; shift from reactive to proactive; romantic consummation represents emotional availability; stakes raised astronomically; Luna's cleverness backfired",
+              "shift": "Luna must go from 'I can outthink everyone' to 'I need help'; from digital solutions to hybrid approach",
+              "visual": "Rooftop scene—Luna seeing her abstract network as real people for first time; code overlays fade, sees humanity clearly",
+              "time_clock_starts": "Three days until major protest—regime will make move then to round up everyone"
+            }
+          }
+        },
+        
+        "act_2b_falling_action": {
+          "page_range": "59-87",
+          
+          "beats": {
+            "second_pinch_point": {
+              "page": 68,
+              "description": "Vega reveals she knows about Luna's double life. Has evidence. Doesn't arrest her—worse: makes offer impossible to refuse. Join regime fully, use network to identify and neutralize 'troublemakers,' or Vega releases evidence that Luna has been defrauding hundreds of people (fabricated, but believable). Would destroy Luna's reputation, network's trust, and justify massive crackdown. Also implies mother could lose medical license, father could be charged as accomplice. Deadline: 48 hours. Valeria present at meeting, won't meet Luna's eyes. Personal betrayal hurts more than threat. Luna realizes: she's been so focused on code, she didn't see the social engineering.",
+              "purpose": "Make it personal; expose Luna's blind spot; impossible choice; deadline pressure",
+              "emotional_impact": "Luna's confidence shattered; realizes her arrogance put everyone in danger",
+              "vega_speech": "'You thought you were so clever, Luna. But you forgot the oldest truth: power isn't about the code, it's about the people who write it. Welcome to the real world, where I write the rules.'"
+            },
+            
+            "bad_guys_close_in": {
+              "page": "70-80",
+              "description": "Everything falls apart systematically. Luna tries technical solutions—all fail. Regime has adapted to her methods. She tries to warn network—Vega's team intercepts communications. Mateo organizes physical meetings—several members arrested. Uncle's bodega raided; he's questioned but released (warning shot). Luna's systems start glitching—realizes Vega's team is using her own backdoors against her. Paranoia sets in: Who's compromised? Can she trust anyone? Pulls away from Mateo (thinks it's safer for him). Father, under pressure, admits Vega offered him professorship back if Luna complies—didn't tell her because he wanted her to choose freely, but now she feels betrayed. Mother exhausted from extra shifts, afraid to sleep. Grandmother's library seized. Network members going dark out of fear. Luna isolated in bedroom, trying to code her way out, failing. Montage of systems failing, surveillance closing in, family fracturing. She's back where she started—alone with screens—but now it's a prison, not a kingdom.",
+              "purpose": "Systematic destruction of everything built; isolate protagonist; force recognition that technical solutions insufficient; test all relationships",
+              "losses": "Trust, safety, network, relationship with Mateo, family unity, her confidence",
+              "visual": "Bright screens now oppressive; monitoring her as much as she monitors; her reflection in black screen—she can't see clearly anymore"
+            },
+            
+            "all_is_lost": {
+              "page": 83,
+              "description": "The night before Vega's deadline. Luna decides to accept the deal—she'll turn over the network, identify leaders, work for regime. Seems like only way to save family. But first, she goes to tell Mateo. Finds him at abandoned bank with his art crew, planning to project manifesto she wrote (without permission) onto Ministry building during tomorrow's protest. She explodes—they'll all be arrested. Tries to stop it. Fight escalates—she says things she doesn't mean, calling him naive, stupid, 'analog.' He calls her coward, says she hides behind code because she's afraid to be human. She storms out. Walking home through empty streets, passes places that now mean something: bodega where network met, university where she met Mateo, rooftop where they kissed. Sees Valeria waiting at her building. Valeria: 'I tried to warn you. I'm sorry. Vega wanted me to tell you: if you don't show up tomorrow with the data, your mother gets arrested at hospital. Charges already filed.' Hands Luna envelope with 'evidence.' Leaves. Luna enters apartment—family asleep, exhausted. She sits at computer, prepares to package all network data for Vega. Voiceover: 'I thought I was so smart. Turns out, I was just alone. Maybe that's the same thing.' Opens grandmother's recipe book, randomly given to her for 'safekeeping.' Inside: handwritten notes from network members, letters to Luna, printed photos of meetings, analog backup of the community she tried to digitize. Note from grandmother: 'Some things matter too much to be only ones and zeros. -A.C.' Luna breaks down crying—first time we've seen her cry.",
+              "purpose": "Lowest point; 'whiff of death' (death of hope, community, who she thought she was); ultimate isolation; realization of what really matters; sets up transformation",
+              "emotional_beat": "Character break down; audience empathy peak; feels unwinnable",
+              "symbolic": "Recipe book = analog wisdom wins; family recipes = what sustains us isn't algorithmic; handwritten = human touch matters"
+            },
+            
+            "dark_night_of_soul": {
+              "page": "84-87",
+              "description": "Luna stays up all night. Not coding—reading the letters and notes. People's stories. Family she helped reunite. Medicine her system helped deliver. Student who could afford university. Grandmother who got glasses. Stories of connection, not just transaction. Realizes: she was so focused on the SYSTEM, she missed the PEOPLE. The algorithm was never the point—the network was. And networks aren't code; they're trust. She's been solving the wrong problem. Vega can copy her code, crack her encryption, but can't replicate trust. That's analog. That's human. That's what she dismissed. Morning comes. Mother wakes, makes coffee (scarcity means real coffee is love language). Joins Luna. They don't speak for a while. MOTHER: 'Whatever you decide, we're with you. You don't have to save us alone.' LUNA: 'I can't save us alone. That was the problem.' Mother hugs her. Luna looks at screens differently now—tools, not solutions. Opens laptop, starts typing, but differently now. Voice-over: 'You know what's funny about algorithms? They're deterministic. You put in same input, get same output. But people? People are variables. And that's not a bug. That's the whole point.' Grandmother joins them, brings the recipe book. ABUELA: 'Ready to try a new recipe?' LUNA: 'I don't cook, Abuela.' ABUELA: 'Neither do revolutionaries. Until they do.' Luna smiles—first genuine smile in pages. She has a plan, but this time it's not just code.",
+              "purpose": "Internal transformation; realization; finds true strength in vulnerability and community; hope restored through human connection; setup for new approach",
+              "realization": "Intelligence isn't about having all answers; it's knowing which questions to ask. And sometimes you need to ask people, not computers.",
+              "visual": "Sunrise through window; warm light replacing cold screen glow; three generations of women together; recipe book in foreground"
+            }
+          }
+        },
+        
+        "break_into_act_3": {
+          "page": "87-89",
+          "description": "Luna reaches out to Mateo—apologizes not with words but with action: sends him detailed code for how to temporarily blind surveillance cameras using regime's own systems against them. Message: 'I'm sorry. Let's cook something together. -L' Meets with Valeria secretly—confronts her. Valeria breaks: she's been feeding info to Luna all along, hates regime, but trapped. Luna: 'Time to get untrapped.' Rallies family: needs everyone's skills. Father's economics knowledge, mother's medical network, grandmother's analog organization, uncle's distribution network, Mateo's art and organizing, Valeria's inside access, Luna's code. Not digital OR analog—both. Hybrid. Montage of preparation: teaching network members physical security; Mateo teaching Luna street smarts; building redundant analog communication (uncle's delivery network); setting up deadman switches; most importantly—TRUSTING PEOPLE with pieces of plan. She doesn't have to be smartest person in room; she has to be person who brings room together. Family dinner scene—everyone contributing. Grandmother leads discussion about philosophy of resistance. Father provides economic analysis. Mother discusses practical logistics. Uncle provides comic relief and surprising strategic insights. Mateo and Luna finish each other's sentences—digital and analog synthesis. Final shot: Luna closes laptop, joins family at table. Voiceover: 'Every algorithm needs input. I was wrong about what I should be programming. It's not people. It's with people.' SMASH CUT: Black screen. Title card: 'THE PROTOCOL' (Their plan name). Act 3 begins.",
+          "purpose": "Rebirth; new plan based on new wisdom; rally allies; show growth through action; hybrid approach; hope restored; community united; set up final confrontation",
+          "visual": "Warm family scene contrasts with cold Act 2B isolation; everyone at table—literal and metaphorical coming together; Luna's screens visible in background but not dominating",
+          "tone_shift": "From despair to determined hope; from clever to wise; from isolated to connected"
+        }
+      },
+      
+      "act_3_resolution": {
+        "duration_percentage": 25,
+        "target_pages": "90-115",
+        "objectives": [
+          "Execute hybrid digital-analog plan",
+          "Outmaneuver Vega ideologically and practically",
+          "Valeria's redemption",
+          "Public revelation of truth",
+          "Character arc completion for Luna",
+          "Answer thematic question",
+          "Resolve all plot threads with hope, not naive optimism"
+        ],
+        
+        "beats": {
+          "finale_begins": {
+            "page": "90-95",
+            "description": "Morning of protest. Luna supposed to deliver network data to Vega at Ministry. Instead, she shows up with different data: complete documentation of Vega's corruption, surveillance overreach, fabricated charges. But she doesn't threaten exposure—yet. Vega: 'You have nothing. I have your family.' Luna: 'You taught me power isn't in the code. It's in the people who write it. Thanks for that lesson.' Meanwhile, the hybrid plan launches: Mateo's crew creates massive projection art installations using Luna's code to temporarily blind surveillance; uncle's network distributes physical leaflets with QR codes to encrypted forums; grandmother leads in-person groups while Luna's system provides secure communication; mother's medical network provides safe spaces; father teaches economics of what they're building (alternative economy) to crowds; Valeria feeds false data to Ministry systems. The protest isn't violent—it's COORDINATED. People following hybrid protocol: analog presence, digital support. It's beautiful and effective. Luna watches from Ministry window as city comes alive with people taking streets in creative ways—flash mobs, singing, projection art, people simply standing together. Vega sees it too: 'You did this?' Luna: 'No. We did.' Vega calls security, but systems are glitching (Luna and Valeria's joint sabotage). Phone system overloaded (uncle's network coordinating). Surveillance blind in key areas (Mateo's tech). For the first time, Vega looks worried.",
+            "purpose": "Set up final confrontation; show hybrid plan working; demonstrate growth; raise stakes to maximum; show antagonist losing control",
+            "tone": "Determined, tactical, community in action, building energy",
+            "visual": "Split screen: Ministry interior (Vega isolated, systems failing) vs. streets (people connecting, systems supporting); Luna's POV shows both—digital and analog unified"
+          },
+          
+          "ideological_confrontation": {
+            "page": "96-103",
+            "description": "Vega locks down Ministry—Luna trapped inside (planned). Captain Ramos tries to arrest her, but Valeria intervenes—reveals she's been working with Luna, provides evidence of her own that exposes Ramos's corruption. Chaos in Ministry. Luna and Vega face off in surveillance center. PHILOSOPHICAL BATTLE: Vega argues order, security, control necessary for survival; Luna counters with community, trust, freedom. But Luna's argument is nuanced—she doesn't claim freedom solves everything, just that humans deserve to fail on their own terms rather than succeed in cages. Vega: 'You're naive. I was like you once. You'll learn.' Luna: 'No. You'll remember.' Shows Vega feed from streets: not chaos, but organization. Not destruction, but construction. People helping each other, sharing resources, building something. Vega: 'It won't last.' Luna: 'Maybe not. But we'll have lived it. That's more than you can say in your tower.' Vega reveals final trap: counter-protocol already running—mass arrests queued, Luna's family already in custody, deadman switch (if Luna doesn't surrender, arrests execute automatically). Luna smiles: 'I learned that trick from you. Here's what I learned from my grandmother: recipes need time and the right ingredients. Your deadman switch? Already neutralized. My network found everyone you had staged—warned them, got them to safety. Uncle's analog network moves faster than your digital one when people trust each other.' Vega checks systems—it's true. Her power is digital, and Luna+Valeria crashed it. But more than that: her AUTHORITY is gone—even her team is watching protest feed, some crying, realizing what they've been doing.",
+            "purpose": "Philosophical resolution; show Luna's growth; demonstrate hybrid superiority not through violence but through better organizing; defeat antagonist ideologically before physically",
+            "dialogue_highlight": "VEGA: 'You can't algorithm away human nature—people are selfish.' LUNA: 'You're right. That's why I stopped trying to algorithm people and started working with them. Human nature isn't just selfish. It's cooperative, creative, beautiful. You forgot that.'",
+            "emotional_core": "Not revenge—sadness for Vega's path; Luna sees herself in Vega (what she could have become)"
+          },
+          
+          "action_sequence": {
+            "page": "104-109",
+            "description": "Captain Ramos, fanatic true believer, won't let Luna leave. Takes her hostage, declares martial law, tries to force loyalty from Ministry staff. Tense standoff. But then—Mateo's projection art flashes onto Ministry building exterior: Luna's entire case against regime, documented, visible to everyone. Public, irrefutable, beautiful. QR codes lead to Luna's most elegant code: distributed network no one entity controls—evidence replicated across thousands of devices. Can't shut down without shutting down internet entirely (which would prove their authoritarianism). Ramos tries anyway—but Valeria and technical team refuse orders. Ministry staff, seeing truth, stand down. Ramos grabs Luna, tries to flee to rooftop helipad. Luna and Ramos fight—she's not trained, but she's scrappy and smart. Uses environment (server racks, cable, equipment). Mateo and protestors arrive (broke through barricades—people power). Standoff on rooftop. Ramos defeated not by violence but by realization he's alone—even Vega won't help him (she's staring at footage of what she's done, processing). Ramos arrested by his own officers. Luna and Mateo reunion—kiss, relieved embrace. Below, protest becomes celebration—people dancing in streets, sharing food, singing. New government officials (emboldened by protest) arrive to arrest Vega. She doesn't resist. Looks at Luna: 'What now?' Luna: 'Now? We build something better. And I'm really going to need that to be "we," because I have no idea how to actually govern. I just know how to build networks.' Vega almost smiles. 'That might be enough.' She's taken away, but with some dignity.",
+            "purpose": "Physical climax; resolve Ramos threat; Vega's defeat is graceful, not cruel; show triumph of cooperation over force; romantic resolution; celebrate community victory",
+            "action_beats": "Rooftop confrontation, Luna using intelligence not strength, community literally rising to help, non-violent revolution succeeding",
+            "visual": "Rooftop high above city—can see celebrations below; sunrise breaking (new day metaphor); Luna between Mateo and screens—she's integrated both worlds"
+          },
+          
+          "resolution_montage": {
+            "page": "110-113",
+            "description": "Weeks later. Reform government establishing transition. Luna helping design transparent systems—but now with oversight, community input, analog checks. Father teaching at university again. Mother leads healthcare collective. Grandmother publishing her philosophy writings. Uncle's bodega now official community center. Valeria working on reformed digital infrastructure—she and Luna collaborate, friendship healing. Luna and Mateo's relationship deepening—she's learning street art, he's learning code; hybrid partnership. Luna's original network evolved: now it's democratic, transparent, community-governed. She's not the architect anymore—she's a participant. Voice-over: 'Turns out, the best algorithm is the one that adapts to the data, not forces data to adapt to it. And people aren't data. They're the whole point.' Scene at family dinner—expanded now, includes Mateo, Valeria, network friends—everyone cooking together (grandmother's recipes, but variations). Luna away from screens, present, laughing. Uncle makes terrible joke, everyone groans. Father discussing new economic theories. Mother showing photos from medical collective. Mateo and Luna exchange glances—love, partnership, home. Grandmother proposes toast: 'To algorithms that bring us together, not drive us apart. To the intelligence of the heart.' They drink. Luna glances at laptop (old habit)—but closes it, returns attention to table.",
+            "purpose": "Show new equilibrium; all characters' arcs resolved; demonstrate sustainable change; Luna's transformation complete; found family moment",
+            "tone": "Warm, hopeful but realistic, earned happiness, community",
+            "music": "Local folk music mixed with electronic beats—hybrid soundtrack"
+          },
+          
+          "final_image": {
+            "page": "114-115",
+            "description": "Luna on rooftop—same one where she and Mateo first kissed. But this time, she's not alone. Mateo, grandmother, core network members with her. Below, city transformed: new murals, community gardens in former empty lots, people in streets but not protesting—just living, connected. Luna's laptop open, but she's teaching a young girl how to code—passing it on. Mateo adds street art to the lesson. Grandmother reads philosophy. It's integrated—digital, analog, human. Luna voice-over: 'My grandmother was right—you can't algorithm your way out of being human. But you can algorithm your way into being more human. Into connection. Into community. Into hope. That's the code that matters. The one written by people, for people, with people.' Camera pulls back: rooftop garden now exists where before was concrete. They're planting literal and metaphorical seeds. Luna and Mateo hold hands, looking at city—their city, their community, their home. Final frame freezes on them, overlaid with code: not ominous surveillance code, but their hybrid protocol—beautiful, open-source, accessible. Last line, grandmother's voice: 'The best recipe is one you share.' BLACK. Text: 'Dedicated to all those who build networks of hope in dark times.' Over credits: screenshots of real communities using technology for mutual aid; no specific country named but universal resonance; open-source code for mutual aid networks listed; organization links for how to get involved.",
+            "purpose": "Mirror opening image but show change; Luna integrated not isolated; digital+analog synthesis; hope without naivety; call to action; circular but evolved; ending that resonates emotionally and intellectually",
+            "visual": "Warm sunset light (vs. cold morning in opening); community present (vs. isolation); Luna engaged with world (vs. behind screens); growth visible; same setting but transformed",
+            "thematic_payoff": "Technology serves humanity, not replaces it; individual genius+community cooperation=change; staying and building beats escaping; trust is the real currency"
+          }
+        }
+      }
+    },
+    
+    "plot_threads": {
+      "a_story_external": {
+        "thread_name": "Build sustainable income system / Evade regime control",
+        "act_1": "Create automated money-making system; attract regime attention",
+        "act_2a": "Navigate double life—regime consultant while maintaining network",
+        "midpoint": "Discover network became political organizing tool; Vega wants to weaponize it",
+        "act_2b": "Systems fail; Vega's ultimatum; must surrender or family suffers",
+        "act_3": "Execute hybrid digital-analog resistance protocol; outmaneuver Vega",
+        "resolution": "Regime weakened; Luna's network becomes transparent community tool"
+      },
+      
+      "b_story_internal": {
+        "thread_name": "Learn to trust people over systems / Connect authentically",
+        "act_1": "Isolated, dismissive of human 'messiness,' trusts only code",
+        "act_2a": "Reluctant connection with Mateo; sees value in analog but still prioritizes digital",
+        "midpoint": "First vulnerability—kiss, admits fear, but still defaults to control",
+        "act_2b": "Isolation fails completely; realizes code can't solve human problems; breaks down",
+        "act_3": "Embraces hybrid approach; trusts others with plan; present and open",
+        "resolution": "Fully integrated—still brilliant coder but now connected human; teaches others"
+      },
+      
+      "c_story_romance": {
+        "thread_name": "Luna and Mateo's relationship",
+        "act_1": "Meet-cute through conflict; mutual dismissal; attraction despite differences",
+        "act_2a": "Forced collaboration; witty banter; teach each other; first kiss at midpoint",
+        "midpoint": "Romantic and ideological union—both vulnerabilities accepted",
+        "act_2b": "Luna pushes him away 'for safety'; fight where truths hurt",
+        "act_3": "Reunion through action; partnership in resistance; love through respect",
+        "resolution": "Equal partners—hybrid relationship mirrors hybrid solution; building life together"
+      },
+      
+      "subplot_1_family": {
+        "thread_name": "Family survival and unity",
+        "purpose": "Emotional stakes; show different forms of intelligence/contribution",
+        "key_beats": "Father's humiliation vs. redemption; mother's sacrifice vs. leadership; grandmother's wisdom vs. risk",
+        "resolution": "Each family member integral to victory; strengthened bonds; expanded family"
+      },
+      
+      "subplot_2_valeria": {
+        "thread_name": "Fallen friend's redemption",
+        "purpose": "Show alternate path; moral complexity; cost of compromise",
+        "key_beats": "Appears as betrayer; revealed as double agent; critical assist in Act 3; forgiveness",
+        "resolution": "Rebuilds friendship with Luna; works on reformed systems; saved by choosing courage"
+      },
+      
+      "subplot_3_vega": {
+        "thread_name": "Antagonist's arc from believer to realization",
+        "purpose": "Show how good intentions become authoritarianism; Luna's dark mirror",
+        "key_beats": "Reasonable → controlling → desperate → broken → glimpse of redemption",
+        "resolution": "Defeated but not destroyed; perhaps can change; ambiguous hope"
+      }
+    },
+    
+    "set_pieces_major_sequences": [
+      {
+        "sequence_number": 2,
+        "location": "Uncle's bodega - secret back room",
+        "page_range": "52-56",
+        "description": "First physical network meeting; Luna attends reluctantly; near-raid by police",
+        "key_beats": [
+          "Luna arrives skeptical, sees diverse group of people her systems helped",
+          "Stories shared—human impact of her algorithms",
+          "Mateo presents idea for coordinated action",
+          "Police arrive for 'inspection'—everyone hides",
+          "Uncle's comic misdirection while people escape through back",
+          "Luna and Mateo last to leave, close call on rooftop escape"
+        ],
+        "stakes": "First time Luna sees network as people not users; everyone could be arrested",
+        "emotional_component": "Luna begins to care about specific individuals; Mateo saves her practically",
+        "tone": "Community warmth interrupted by danger; comedy and tension blend",
+        "production_notes": "Practical location; ensemble cast intro; establishes geography for later"
+      },
+      {
+        "sequence_number": 3,
+        "location": "Abandoned bank building - projection art reveal",
+        "page_range": "64-69",
+        "description": "Mateo shows Luna his crew's art installation; combines with her code; raid interrupts",
+        "key_beats": [
+          "Gorgeous projection art on building facade",
+          "Luna provides code that makes it interactive with crowd",
+          "Moment of beauty—digital and analog perfect synthesis",
+          "First kiss during the light show",
+          "Raid begins—scatter and run",
+          "Chase through building's beautiful decay",
+          "Luna uses building knowledge (Mateo taught her) to escape",
+          "Mateo arrested—Luna barely escapes"
+        ],
+        "stakes": "Mateo's freedom; Luna's guilt; romance interrupted by reality",
+        "emotional_component": "Peak of hope before crash; love scene interrupted; Luna's helplessness without code",
+        "tone": "Beautiful → romantic → terrifying",
+        "production_notes": "Signature visual sequence; practical projections; parkour-style chase; key romantic beat"
+      },
+      {
+        "sequence_number": 4,
+        "location": "Ministry of Technology - infiltration",
+        "page_range": "105-110",
+        "description": "Final confrontation location; Luna trapped inside during climax",
+        "key_beats": [
+          "Luna voluntarily enters with 'data' for Vega",
+          "Reveals she and Valeria sabotaged systems",
+          "Philosophical confrontation with Vega",
+          "Ramos takes her hostage",
+          "Fight through Ministry building",
+          "Mateo's projection art reveals truth to public on building exterior",
+          "Rooftop standoff",
+          "Community breaks through—people power vs. authority",
+          "Vega's ideological defeat watching her systems fail"
+        ],
+        "stakes": "Everything—Luna's life, regime change, thematic resolution",
+        "emotional_component": "Luna uses all lessons—digital skills, analog tactics, trust in people; synthesis",
+        "tone": "Tense build to triumphant release; not violent revolution but coordinated non-violent action",
+        "production_notes": "Major set piece; interior/exterior; rooftop finale; crowd sequences; projection mapping VFX"
+      }
+    ],
+    
+    "emotional_beats_calendar": {
+      "purpose": "Track Luna's emotional journey separate from plot",
+      "protagonist_emotions": {
+        "act_1": ["smug", "isolated", "controlled", "cynical", "protective-of-family", "dismissive", "clever", "lonely-but-denying-it"],
+        "act_2a": ["confident", "attracted", "intrigued-by-analog", "still-superior", "enjoying-game", "falling-in-love", "vulnerable-moments"],
+        "midpoint": ["awed", "terrified", "connected", "exposed", "hopeful-then-crushed"],
+        "act_2b": ["paranoid", "desperate", "failing", "guilt-ridden", "broken", "isolated-again", "despairing"],
+        "dark_night": ["grieving", "humble", "awake", "accepting", "human", "ready"],
+        "act_3": ["determined", "collaborative", "brave", "present", "loving", "wise", "whole", "joyful"]
+      },
+      "audience_emotions": {
+        "act_1": ["entertained by wit", "charmed by cleverness", "worried for her", "wanting her to connect"],
+        "act_2a": ["rooting for romance", "impressed by skills", "enjoying success", "nervous about stakes"],
+        "midpoint": ["excited", "proud of her", "scared for her", "increased investment"],
+        "act_2b": ["heartbroken", "frustrated with her isolation", "desperate for her to change", "fearing loss"],
+        "dark_night": ["crying", "hoping for change", "cathartic", "recognizing truth"],
+        "act_3": ["triumphant", "joyful", "inspired", "satisfied", "hopeful", "wanting to act themselves"]
+      },
+      "tonal_notes": "Wilde/Twain wit prevents this from being depressing; darkness leavened by humor throughout; earned emotion, not manipulation"
+    },
+    
+    "dialogue_principles": {
+      "protagonist_voice": {
+        "characteristics": [
+          "Rapid-fire wit—deflects with humor",
+          "Tech jargon mixed with street slang",
+          "Pop culture references (very online)",
+          "Philosophical without pretension",
+          "Self-deprecating but confident",
+          "Code metaphors for emotions",
+          "Increasingly sincere as arc progresses"
+        ],
+        "avoid": ["Mansplaining tech", "Being mean-spirited", "Monologues", "Stating feelings directly (early)"],
+        "signature_phrases": [
+          "I can automate that",
+          "That's not a bug, that's a feature",
+          "Trust the algorithm" → "Trust the people",
+          "It's just code" → "It's never just code"
+        ],
+        "growth_indicator": "Begins using 'we' instead of 'I'; pauses before speaking; asks questions instead of declaring",
+        "example_early": "LUNA: 'People are just poorly optimized algorithms anyway.'",
+        "example_late": "LUNA: 'People aren't algorithms. That's what makes them amazing.'"
+      },
+      
+      "antagonist_voice": {
+        "characteristics": [
+          "Measured, controlled",
+          "Corporate-speak masking threats",
+          "Philosophical justifications",
+          "Never raises voice until endgame",
+          "Technical competence",
+          "Maternal/teacher tone (patronizing but genuinely believes she's teaching)"
+        ],
+        "avoid": ["Cartoonish evil", "Yelling unnecessarily", "Explaining entire plan"],
+        "signature_phrases": [
+          "For the greater good",
+          "I'm trying to help you, Luna",
+          "Order from chaos",
+          "Someone has to make the hard choices"
+        ],
+        "contrast_to_hero": "Believes in systems over people; Luna learns to believe in people through systems",
+        "complexity": "Makes valid points; audience should understand her logic even while disagreeing"
+      },
+      
+      "supporting_cast_voices": {
+        "mateo": "Passionate, poetic, street-smart, quotes Wilde and Marx, earnest without naivety, 'feels' while Luna 'thinks'",
+        "abuela": "Wise, witty, philosophical references natural, subverts 'sweet grandmother' stereotype—she's sharp",
+        "uncle": "Comic but not stupid; malapropisms and tech-illiterate humor hide shrewd intelligence",
+        "mother": "Practical, warm, strong, medical precision in speech, emotional directness Luna lacks",
+        "father": "Academic even in despair, economic terminology, defeated early/empowered late, gentle",
+        "valeria": "Corporate buzzwords masking pain, trying to convince herself, breaks into authentic pain"
+      },
+      
+      "general_rules": [
+        "Wilde/Twain: Wit serves social commentary",
+        "Subtext heavy—what's unsaid matters more",
+        "Humor in darkness—but never mocking suffering",
+        "Each character wants something each scene",
+        "Conflict in every exchange",
+        "Silence is powerful",
+        "Code-switching based on context (Luna different with grandmother vs. Vega)",
+        "Spanglish when appropriate for authenticity"
+      ],
+      
+      "key_dialogue_moments": {
+        "act_1_thesis": "MATEO: 'You can't code a revolution.' LUNA: 'Watch me.'",
+        "midpoint_shift": "LUNA: 'I wanted to save my family.' MATEO: 'You did. And everyone else's too.'",
+        "all_is_lost": "LUNA: 'I thought I was so smart. Turns out I was just alone.'",
+        "transformation": "ABUELA: 'You can't algorithm your way out of being human.' LUNA: 'No. But I can algorithm my way into being more human.'",
+        "final_answer": "VEGA: 'What now?' LUNA: 'Now we build something better. Together.'"
+      }
+    },
+    
+    "visual_storytelling": {
+      "color_palette": {
+        "act_1": "Desaturated reality with vibrant screens—Luna's world is digital color, physical world is gray",
+        "act_2a": "Increasing warmth as she connects—Mateo brings color to physical world; street art pops",
+        "midpoint": "Full color—both worlds vibrant when unified",
+        "act_2b": "Darkness, shadows, even screens become oppressive blue, surveillance green",
+        "act_3": "Sunrise gold, community warmth, balanced palette—digital and analog both vibrant"
+      },
+      
+      "camera_language": {
+        "luna_isolated": "Tight frames, screens reflection in glasses, surrounded by technology",
+        "luna_connecting": "Opening up frames, two-shots with Mateo, depth of field showing world beyond screens",
+        "surveillance_pov": "Clinical, high-angle, multiple screens, digital overlays—dehumanizing",
+        "community_scenes": "Handheld, warm, intimate, Dutch angles energy",
+        "action_sequences": "Kinetic but clear, parkour-style, environment interaction, geographic clarity",
+        "finale": "Epic wides establishing scale, intimate close-ups for emotion, balanced composition showing synthesis"
+      },
+      
+      "visual_motifs": [
+        "Screens: Luna's interface with world → windows to community → tools among others",
+        "Broken glass: System cracks literal and metaphorical",
+        "Empty storefronts: Economic collapse visible; later transformed by art/community",
+        "Grandmother's recipe book: Analog wisdom, handwritten, contrasts with Luna's screens",
+        "Projection art: Ephemeral beauty, public truth, synthesis of digital and analog",
+        "Rooftops: Above surveillance, perspective, freedom, where Luna connects with both worlds",
+        "Code on screen: Early chaotic/incomprehensible; later beautiful, readable, open-source aesthetic"
+      ],
+      
+      "signature_shots": [
+        "Opening: Luna's reflection in four monitors, surrounded by code, isolated in bedroom",
+        "Midpoint: Rooftop, Luna seeing crowd below, code overlay fades revealing humanity",
+        "Dark night: Recipe book close-up, handwritten notes, Luna's tear falling on page",
+        "Finale: Projection on Ministry building—Luna's code becomes public art, truth visible",
+        "Final: Rooftop garden, Luna teaching, screens present but not dominating, community visible below"
+      ],
+      
+      "screen_text_design": {
+        "approach": "Code and interfaces should be beautiful, readable, tell story",
+        "luna_coding": "Elegant, sophisticated UI/UX, custom terminals, aesthetic code",
+        "regime_surveillance": "Clinical, corporate, facial recognition boxes, social credit scores, dehumanizing",
+        "network_interface": "Warm, collaborative, user-generated content visible, human names not numbers",
+        "final_protocol": "Open-source aesthetic, commented code, accessible, inviting"
+      }
+    },
+    
+    "pacing_rhythm": {
+      "act_1": "Quick establishment, wit-driven, accelerating to break into Act 2",
+      "act_2a": "Action-dialogue-romance rhythm, building momentum, peaks at midpoint",
+      "midpoint": "Major peak then brief respite for processing",
+      "act_2b": "Sustained pressure, compression, systematic destruction, deceleration to dark night stillness",
+      "act_3": "Steady build through preparation, accelerating through action, sustained climax, quick warm resolution",
+      
+      "scene_length_guide": {
+        "dialogue": "2-3 pages—keep it snappy, Wilde wit is efficient",
+        "coding_montages": "1-2 pages with voice-over",
+        "action": "4-6 pages maximum per sequence",
+        "emotional": "2-3 pages—earned brevity has impact",
+        "family_scenes": "3-4 pages—these are grounding, can breathe",
+        "confrontations": "3-5 pages—philosophical battles need space"
+      },
+      
+      "rhythm_notes": "Alternate between cerebral (coding, philosophy) and visceral (street, action); between isolation (Luna alone) and community (ensemble scenes); between digital (screen time) and analog (physical world)"
+    },
+    
+    "thematic_weaving": {
+      "how_theme_appears": {
+        "dialogue": "Characters debate digital vs. analog, individual vs. community, escape vs. engagement",
+        "action": "Luna's successes come when she combines approaches; failures when she isolates",
+        "visuals": "Screens vs. faces, code vs. handwriting, algorithms vs. recipes, surveillance vs. art",
+        "structure": "Three-act progression mirrors learning curve: isolation → attempted control → synthesis"
+      },
+      
+      "theme_per_act": {
+        "act_1": "Individual genius can solve everything (thesis—Luna believes this)",
+        "act_2": "Systems fail without human element (antithesis—Luna learns this)",
+        "act_3": "Synthesis of digital tools and human community creates change (synthesis—Luna embodies this)"
+      },
+      
+      "symbol_payoffs": {
+        "recipe_book": "Introduced Act 1 as 'old-fashioned'; becomes literal and metaphorical guide Act 2B; shared with next generation Act 3",
+        "broken_screens": "Luna's monitors glitch when stressed; regime surveillance fails when people unite; final image shows screens as tools not barriers",
+        "empty_storefronts": "Economic collapse visual; transformed by street art Act 2; become community spaces Act 3",
+        "projection_art": "Introduced as Mateo's 'useless' passion; becomes key revolutionary tool; synthesis of their skills"
+      }
+    },
+    
+    "production_considerations": {
+      "budget_indicators": {
+        "tier": "Mid-budget indie with commercial potential",
+        "estimated_range": "$8-15M",
+        "value_on_screen": "Authentic locations, strong ensemble cast, practical effects, limited VFX for screens/projections"
+      },
+      
+      "marketability": {
+        "trailer_moments": [
+          "Luna: 'I can algorithm anything' montage showing her skills",
+          "Mateo and Luna's witty exchanges and chemistry",
+          "Vega: 'Work with me or everyone you love suffers'",
+          "Projection art on Ministry building—visual spectacle",
+          "Rooftop confrontation",
+          "Community rising up—crowd power",
+          "Luna: 'Trust the people' moment"
+        ],
+        "poster_image": "Luna in foreground with laptop, code reflecting in her face; behind her, crowd of people in street; Mateo beside her; grandmother's hand on shoulder; Ministry building looming; divided screen aesthetic showing digital and physical worlds merging",
+        "one_sheet_tagline": "In a world that crashed, she coded hope. // Some revolutions are written in code. // The most dangerous algorithm is hope.",
+        "international_appeal": "Universal themes (oppression, family, coming-of-age, tech); no specific country named; relevant to many contexts; youth appeal; tech relevance"
+      },
+      
+      "festival_positioning": {
+        "target_festivals": "Sundance, SXSW, Tribeca, Toronto—prestige with commercial appeal",
+        "awards_potential": "Best Original Screenplay, Best Actress (Luna), Breakthrough Performance (ensemble), Best Editing",
+        "social_relevance": "Timely—digital economy, authoritarianism, youth activism, AI ethics, crypto, surveillance capitalism"
+      },
+      
+      "franchise_potential": {
+        "sequel_hooks": "Luna's network expanding internationally; other regimes; Vega's potential redemption arc; new threats to digital freedom",
+        "recurring_elements": "Luna-Mateo partnership, family, hybrid resistance model, wit and heart",
+        "expandability": "Medium—story complete but world and approach could continue; anthology potential in universe"
+      },
+      
+      "casting_notes": {
+        "luna": "18, Latina, brilliant, witty, must carry film, chemistry crucial, needs comedy and drama range",
+        "mateo": "19, Latino, charismatic, passionate, physical (art/action), romantic lead qualities",
+        "vega": "40s, Latina, sophisticated, complex villain, must be sympathetic and threatening",
+        "abuela": "70s, Latina, comedic timing, philosophical depth, scene-stealer",
+        "ensemble": "Strong character actors, authentic to culture, chemistry as family/community"
+      }
+    },
+    
+    "script_formatting_notes": {
+      "page_count_target": 115,
+      "format": "Standard Hollywood screenplay format",
+      "white_space": "Abundant—wit reads better with air; no dense paragraphs",
+      "action_lines": "Present tense, sharp prose, visual, economical—Wilde style even in description",
+      "voice_over": "Frequent in Act 1 (Luna's perspective), sparse in Act 2 (experiencing not observing), returns transformed Act 3",
+      "on_screen_text": "Code, messages, interfaces designed and described specifically—part of storytelling",
+      "montages": "Several—time compression for skill-building, network growth, preparation",
+      "intercuts": "Between digital and physical action; Luna's POV and surveillance POV; preparation and execution",
+      "spanish_language": "Authentic use when appropriate; family scenes mix languages naturally; not subtitled in description",
+      "technical_accuracy": "Code and tech should be researched but not bog down story; consult experts but prioritize clarity"
+    }
+  },
+  
+  "llm_generation_instructions": {
+    "primary_directive": "Generate a screenplay that balances Oscar Wilde wit with Mark Twain social commentary, set in a metaphorical Venezuela-like oppressive state, following an 18-year-old coder who learns that technology without humanity is just another form of isolation.",
+    
+    "tone_mandates": [
+      "Witty and sharp but never cruel",
+      "Dark subject matter leavened by humor",
+      "Social commentary through character not preaching",
+      "Earned emotion—setup every payoff",
+      "Hope without naivety—show realistic change",
+      "Celebrate intelligence without elitism",
+      "Respect all characters including antagonist"
+    ],
+    
+    "character_priorities": [
+      "Luna must be brilliant but flawed, witty but vulnerable, growing visibly",
+      "Mateo equals her—different intelligence, not lesser",
+      "Vega must make good points even as villain",
+      "Supporting cast all contribute—no one is just functional",
+      "Family dynamics feel real—love + friction",
+      "Romance earned through respect and partnership"
+    ],
+    
+    "structural_requirements": [
+      "Hit all three-act beats within 5 pages of target",
+      "Every scene advances plot OR character (preferably both)",
+      "Weave A/B/C stories—don't isolate threads",
+      "Theme present but subtle until earned in climax",
+      "Dialogue crackles—no exposition dumps",
+      "Visual storytelling primary—describe what we SEE"
+    ],
+    
+    "thematic_integration": [
+      "Digital vs. analog tension in every act, synthesis in Act 3",
+      "Individual genius vs. community power—both matter, balanced",
+      "Escape vs. engagement—staying and building wins",
+      "Trust as true currency—algorithms serve, don't replace",
+      "Show these themes through action, don't state them"
+    ],
+    
+    "quality_control_checkpoints": {
+      "does_luna_arc_complete": "Isolated → Control-seeking → Synthesis of tech+human",
+      "is_wit_consistent": "Wilde/Twain tone in dialogue and description throughout",
+      "are_stakes_personal": "Not just 'save country'—save family, self, specific people",
+      "does_romance_work": "Chemistry, conflict, partnership, earned intimacy",
+      "is_vega_complex": "Makes good points, sympathetic motivation, ideological not cartoonish",
+      "do_all_plots_resolve": "A-story (network/regime), B-story (Luna's growth), C-story (romance), subplots (family, Valeria)",
+      "is_ending_satisfying": "Hopeful but realistic, mirrors opening transformed, theme answered"
+    },
+    
+    "generation_tips": {
+      "start_with_voice": "Establish Luna's witty voice-over immediately—sets tone",
+      "use_montage": "Compress time while building world—more efficient than scenes",
+      "contrast_visuals": "Gray oppression vs. vibrant screens; isolating technology vs. connecting art",
+      "layer_dialogue": "Subtext, wit, character, plot all in every exchange",
+      "earn_emotions": "Setup small, payoff big—grandmother's recipe book introduced pages before it matters",
+      "show_don't_tell": "Hyperinflation through prices changing, not explanation; surveillance through behavior changes",
+      "cultural_authenticity": "Research Venezuelan/Latin American context but keep metaphorical; universal specificity"
+    },
+    
+    "avoid_these_pitfalls": [
+      "Tech-bro protagonist—Luna is brilliant but must learn humility",
+      "Simplistic villain—Vega represents real ideology, must be defeated ideologically",
+      "Savior narrative—Luna catalyzes change, doesn't single-handedly save everyone",
+      "Preachiness—theme through story, not speeches",
+      "Unrealistic tech—consult experts, keep it grounded even when heightened",
+      "Poverty porn—show dignity in hardship, resilience in community",
+      "Naive optimism—ending hopeful but shows ongoing work needed"
+    ],
+    
+    "success_criteria": "Audience should: laugh frequently, cry in Act 2B/3, learn something about technology and humanity, feel inspired to act, remember Luna and Mateo, quote the dialogue, understand the political commentary without feeling lectured, want to build community networks themselves."
+  }
+}
